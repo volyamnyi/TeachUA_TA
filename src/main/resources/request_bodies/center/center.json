@@ -1,0 +1,21 @@
+{
+  "name": "Java center",
+  "description": "somethingsomethingsomethingsomethingsomethingsomething",
+  "userId": "1",
+  "contacts": "{\"1\"::\"123456789\"}",
+  "locations": [
+    {
+      "name": "location23",
+      "cityName": "Київ",
+      "districtName": "Оболонський",
+      "stationName": "Вирлиця",
+      "address": "test321",
+      "coordinates": "49.829104498711104, 24.005058710351314",
+      "phone": "0966754343",
+      "key": 0.6270371557017628
+    }
+  ],
+  "clubsId": [
+    37
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 0,
+  "title": "string",
+  "description": "string",
+  "urlTitleLogo": "string",
+  "date": "2022-01-08",
+  "isActive": true,
+  "user": {
+    "id": 0,
+    "firstName": "string",
+    "lastName": "string"
+  }
+}

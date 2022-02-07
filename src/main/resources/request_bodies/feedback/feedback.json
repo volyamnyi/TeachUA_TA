@@ -1,0 +1,155 @@
+{
+  "id": 10,
+  "rate": 5.0,
+  "text": "Verify if error message appears if entered data is invalid\n",
+  "date": [
+    2021,
+    8,
+    18,
+    6,
+    54,
+    3,
+    890000000
+  ],
+  "user": {
+    "id": 1,
+    "email": "admin@gmail.com",
+    "password": "$2y$12$iod5PRHZaYrIO6L3onnnk.Mhx9Hc1lb2ehBi0hRvPDD83u6OM/b66",
+    "firstName": "admin",
+    "lastName": "Admin",
+    "phone": "963254877",
+    "urlLogo": "/static/images/user/avatar/user1.png",
+    "provider": "local",
+    "providerId": null,
+    "status": true,
+    "verificationCode": "hKhPzds5eWvb71wO8GRTE8YtGXmlYzzccDPov5Zl2csGLah4efBjQRe1CfZNKLNg"
+  },
+  "club": {
+    "id": 479,
+    "ageFrom": 17,
+    "ageTo": 18,
+    "name": "Справжні пригоди",
+    "description": "{\"blocks\":[{\"key\":\"brl63\",\"text\":\"Verify if error message appears if entered data is invalidVerify if error message appears if entered data is invalidVerify if error message appears if entered data is invalidVerify if error message appears if entered data is invalidVerify if error message appears if entered data is invalidVerify if error message appears if entered data is invalidVerify if error message appears if entered data is invalidVerify if error message appears if entered data is invalidVerify if error message appears if entered data is invalid\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+    "urlWeb": null,
+    "urlLogo": null,
+    "urlBackground": null,
+    "urlGallery": [
+      {
+        "id": 45,
+        "url": "/upload/clubs/f63de0ed-5756-4e8c-9a84-2413020bed68/gallery/button.png"
+      }
+    ],
+    "workTime": null,
+    "rating": 5.0,
+    "feedbackCount": 1,
+    "isOnline": null,
+    "locations": [
+
+    ],
+    "feedbacks": [
+      {
+        "id": 10,
+        "rate": 5.0,
+        "date": [
+          2021,
+          8,
+          18,
+          6,
+          54,
+          3,
+          890000000
+        ],
+        "text": "Verify if error message appears if entered data is invalid\n",
+        "user": {
+          "id": 1,
+          "email": "admin@gmail.com",
+          "password": "$2y$12$iod5PRHZaYrIO6L3onnnk.Mhx9Hc1lb2ehBi0hRvPDD83u6OM/b66",
+          "firstName": "admin",
+          "lastName": "Admin",
+          "phone": "963254877",
+          "urlLogo": "/static/images/user/avatar/user1.png",
+          "provider": "local",
+          "providerId": null,
+          "status": true,
+          "verificationCode": "hKhPzds5eWvb71wO8GRTE8YtGXmlYzzccDPov5Zl2csGLah4efBjQRe1CfZNKLNg"
+        },
+        "club": 479
+      }
+    ],
+    "categories": [
+      {
+        "id": 11,
+        "sortby": 70,
+        "name": "Інше",
+        "description": "Тут є цікаві гуртки, які не потрапили в інші категорії",
+        "urlLogo": "/static/images/categories/other.svg",
+        "backgroundColor": "#FFA940",
+        "tagBackgroundColor": "#FFA940",
+        "tagTextColor": "#fff"
+      }
+    ],
+    "user": {
+      "id": 1,
+      "email": "admin@gmail.com",
+      "password": "$2y$12$iod5PRHZaYrIO6L3onnnk.Mhx9Hc1lb2ehBi0hRvPDD83u6OM/b66",
+      "firstName": "admin",
+      "lastName": "Admin",
+      "phone": "963254877",
+      "urlLogo": "/static/images/user/avatar/user1.png",
+      "provider": "local",
+      "providerId": null,
+      "status": true,
+      "verificationCode": "hKhPzds5eWvb71wO8GRTE8YtGXmlYzzccDPov5Zl2csGLah4efBjQRe1CfZNKLNg"
+    },
+    "center": {
+      "id": 203,
+      "name": "test123wwww",
+      "contacts": "{\"1\":[\"+380111111113\"]}",
+      "urlBackgroundPicture": null,
+      "description": "dwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww",
+      "urlWeb": null,
+      "urlLogo": null,
+      "locations": [
+        {
+          "id": 1242,
+          "name": "my my",
+          "address": "addr1wwwwwwwwwww",
+          "latitude": 49.829104498711104,
+          "longitude": 24.005058710351314,
+          "phone": null,
+          "district": null,
+          "station": null,
+          "city": {
+            "id": 1,
+            "name": "Київ",
+            "latitude": 50.48566,
+            "longitude": 30.59034
+          }
+        }
+      ],
+      "clubs": [
+        479
+      ],
+      "user": {
+        "id": 1,
+        "email": "admin@gmail.com",
+        "password": "$2y$12$iod5PRHZaYrIO6L3onnnk.Mhx9Hc1lb2ehBi0hRvPDD83u6OM/b66",
+        "firstName": "admin",
+        "lastName": "Admin",
+        "phone": "963254877",
+        "urlLogo": "/static/images/user/avatar/user1.png",
+        "provider": "local",
+        "providerId": null,
+        "status": true,
+        "verificationCode": "hKhPzds5eWvb71wO8GRTE8YtGXmlYzzccDPov5Zl2csGLah4efBjQRe1CfZNKLNg"
+      },
+      "centerExternalId": null,
+      "rating": 5.0,
+      "clubCount": 1
+    },
+    "isApproved": null,
+    "contacts": "{\"1\"::\"000000000\"}",
+    "clubExternalId": null,
+    "centerExternalId": null
+  }
+}

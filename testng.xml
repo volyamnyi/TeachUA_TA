@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Suite" configfailurepolicy="continue" verbose="1" parallel="tests" thread-count="3">
+    <test name="BDD Tests" annotations="JDK">
+        <packages>
+            <package name="com.ita.edu.teachua.cucumber.cucumberTestRunner"/>
+        </packages>
+    </test>
+
+    <test name="UI Tests" annotations="JDK">
+        <packages>
+            <package name="com.ita.edu.teachua.ui.tests"/>
+        </packages>
+    </test>
+
+    <test name="API Tests" annotations="JDK">
+        <packages>
+            <package name="com.ita.edu.teachua.api.tests"/>
+        </packages>
+    </test>
+    <!--<test name="UI Tests" annotations="JDK" preserve-order="true">
+        <classes>
+            <class name="com.ita.edu.teachua.ui.tests.RestorePasswordViaGmailApiTest"/>
+        </classes>
+    </test>-->
+</suite>
+

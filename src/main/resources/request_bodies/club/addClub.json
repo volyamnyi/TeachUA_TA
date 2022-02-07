@@ -1,0 +1,25 @@
+{
+  "categoriesName": ["Вокальна студія, музика, музичні інструменти"],
+  "name": "Голосистi діти",
+  "ageFrom": 2,
+  "ageTo": 18,
+  "urlLogo": null,
+  "urlBackground": null,
+  "isOnline": true,
+  "description": "{\"blocks\":[{\"key\":\"brl63\",\"text\":\"аааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааа\",\"type\":\"unstyled\",\"depth\":1,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+  "userId": "264",
+  "locations": [
+    {
+      "name": "Голосівська",
+      "cityName": "Київ",
+      "districtName": "Голосіївський",
+      "stationName": "Голосіївська",
+      "address": "https://speak-ukrainian.org.ua/dev/club/910",
+      "coordinates": "50.35535081747696, 30.51765754176391",
+      "phone": "0666666666",
+      "key": 0.00
+    }
+  ],
+  "contacts": "{\"1\"::\"ліл\"}",
+  "centerId": 2
+}
