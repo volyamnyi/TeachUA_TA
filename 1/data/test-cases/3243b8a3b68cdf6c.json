@@ -1,0 +1,67 @@
+{
+  "uid" : "3243b8a3b68cdf6c",
+  "name" : "TUA-319",
+  "fullName" : "com.ita.edu.teachua.ui.tests.RestorePasswordViaGmailApiTest.restorePasswordWithInvalidEmailTest",
+  "historyId" : "828604f8edf611683fad6d9ab13e0815",
+  "time" : {
+    "start" : 1644246680377,
+    "stop" : 1644246680389,
+    "duration" : 12
+  },
+  "description" : "TUA-319 Verify if  user can change the password entering incorrect email",
+  "descriptionHtml" : "<p>TUA-319 Verify if  user can change the password entering incorrect email</p>\n",
+  "status" : "unknown",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.ita.edu.teachua.ui.tests.RestorePasswordViaGmailApiTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.ita.edu.teachua.ui.tests.RestorePasswordViaGmailApiTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "restorePasswordWithInvalidEmailTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Test Suite"
+  }, {
+    "name" : "suite",
+    "value" : "UI Tests"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.ita.edu.teachua.ui.tests.RestorePasswordViaGmailApiTest"
+  }, {
+    "name" : "host",
+    "value" : "fv-az77-105"
+  }, {
+    "name" : "thread",
+    "value" : "2777@fv-az77-105.TestNG-tests-2(14)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "TUA-319",
+    "type" : "issue"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3243b8a3b68cdf6c.json",
+  "parameterValues" : [ ]
+}

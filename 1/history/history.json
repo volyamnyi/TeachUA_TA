@@ -1,0 +1,2532 @@
+{
+  "caf3b212cddcde27e88efff898e0e999" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "aa880d21ee8c53fe",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/aa880d21ee8c53fe",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"password must not be empty and email must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246704606,
+        "stop" : 1644246704606,
+        "duration" : 0
+      }
+    } ]
+  },
+  "39284bbb8307a97c3edf79a3c8d28f06" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9695d4f8c997c03e",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/9695d4f8c997c03e",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"password must not be empty and email must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246699484,
+        "stop" : 1644246699484,
+        "duration" : 0
+      }
+    } ]
+  },
+  "38fa2f450a29facff302124964846f90" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a96894e1725605cf",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/a96894e1725605cf",
+      "status" : "broken",
+      "statusDetails" : "invalid argument\n  (Session info: chrome=97.0.4692.99)\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'fv-az77-105', ip: '10.1.0.169', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '1.8.0_292'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [edc17da0859e3182badeffaeb7d9bc68, get {url=}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /tmp/.com.google.Chrome.SQ3Zmy}, goog:chromeOptions: {debuggerAddress: localhost:39115}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:39115/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: edc17da0859e3182badeffaeb7d9bc68",
+      "time" : {
+        "start" : 1644246693886,
+        "stop" : 1644246695024,
+        "duration" : 1138
+      }
+    } ]
+  },
+  "fa6cdd81f29cf6e4e3b1a493f12d4aad" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d69dc2cc00b65b0f",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/d69dc2cc00b65b0f",
+      "status" : "skipped",
+      "statusDetails" : "invalid argument\n  (Session info: chrome=97.0.4692.99)\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'fv-az77-105', ip: '10.1.0.169', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '1.8.0_292'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [e821219f3f88da56466d5024a9e4ceff, get {url=}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /tmp/.com.google.Chrome.caEcpt}, goog:chromeOptions: {debuggerAddress: localhost:33145}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:33145/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: e821219f3f88da56466d5024a9e4ceff",
+      "time" : {
+        "start" : 1644246700576,
+        "stop" : 1644246700576,
+        "duration" : 0
+      }
+    } ]
+  },
+  "a78470ba81036184e26fbbfe9a8bc388" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "65dde68bca63d506",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/65dde68bca63d506",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"password must not be empty and email must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246735194,
+        "stop" : 1644246735194,
+        "duration" : 0
+      }
+    } ]
+  },
+  "bdaf6a73b00186027404e7d1392f9ec8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b2e14e0537266c08",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/b2e14e0537266c08",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"password must not be empty and email must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246701531,
+        "stop" : 1644246701537,
+        "duration" : 6
+      }
+    } ]
+  },
+  "2cfd07316a4e9cf3161b631536809b4f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "92b7ec16e4cc475f",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/92b7ec16e4cc475f",
+      "status" : "skipped",
+      "statusDetails" : "invalid argument\n  (Session info: chrome=97.0.4692.99)\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'fv-az77-105', ip: '10.1.0.169', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '1.8.0_292'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [152146c16e4ea660a3732e4a2a0f4ffc, get {url=}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /tmp/.com.google.Chrome.dJNTRs}, goog:chromeOptions: {debuggerAddress: localhost:43663}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:43663/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 152146c16e4ea660a3732e4a2a0f4ffc",
+      "time" : {
+        "start" : 1644246714358,
+        "stop" : 1644246714358,
+        "duration" : 0
+      }
+    } ]
+  },
+  "c820dbadcb14cd1b7056c1876d08d7dc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cddd396015e3088e",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/cddd396015e3088e",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"password must not be empty and email must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246701555,
+        "stop" : 1644246701555,
+        "duration" : 0
+      }
+    } ]
+  },
+  "28df32ed1ed3aa83905aa03913e01b41" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ba0c767ed5d052c2",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/ba0c767ed5d052c2",
+      "status" : "broken",
+      "statusDetails" : "invalid argument\n  (Session info: chrome=97.0.4692.99)\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'fv-az77-105', ip: '10.1.0.169', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '1.8.0_292'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [edd93c536edd4a9e2ce6c40e1801c9fe, get {url=}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /tmp/.com.google.Chrome.eVbzm2}, goog:chromeOptions: {debuggerAddress: localhost:36963}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:36963/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: edd93c536edd4a9e2ce6c40e1801c9fe",
+      "time" : {
+        "start" : 1644246731754,
+        "stop" : 1644246731754,
+        "duration" : 0
+      }
+    } ]
+  },
+  "5fb82705b8bdbe9423cd9f4b8a129068" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "58ae947ac2d2cdb7",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/58ae947ac2d2cdb7",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"email must not be empty and password must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246687050,
+        "stop" : 1644246687051,
+        "duration" : 1
+      }
+    } ]
+  },
+  "f4d4cf9aa7b44d9a74fec14724bf3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ea73f9cb0a072aec",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/ea73f9cb0a072aec",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"password must not be empty and email must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246700494,
+        "stop" : 1644246700494,
+        "duration" : 0
+      }
+    } ]
+  },
+  "828604f8edf611683fad6d9ab13e0815" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 1,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3243b8a3b68cdf6c",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/3243b8a3b68cdf6c",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1644246680377,
+        "stop" : 1644246680389,
+        "duration" : 12
+      }
+    } ]
+  },
+  "54e9f5f773f5796dadfcb1aa7870bb34" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9252a501a6a94f14",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/9252a501a6a94f14",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"password must not be empty and email must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246701522,
+        "stop" : 1644246701525,
+        "duration" : 3
+      }
+    } ]
+  },
+  "23f6b31e79f13524beb9b04c59ca66c3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 1,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "642c8cd4ab7995da",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/642c8cd4ab7995da",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1644246680374,
+        "stop" : 1644246680374,
+        "duration" : 0
+      }
+    } ]
+  },
+  "ddf00501f9b4aaa7d7c7d48e6108cf4f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4c924fef870d9399",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/4c924fef870d9399",
+      "status" : "skipped",
+      "statusDetails" : "invalid argument\n  (Session info: chrome=97.0.4692.99)\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'fv-az77-105', ip: '10.1.0.169', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '1.8.0_292'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [9cd580593cf64aab42563b95e3398b64, get {url=}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /tmp/.com.google.Chrome.KMKejq}, goog:chromeOptions: {debuggerAddress: localhost:34975}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:34975/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 9cd580593cf64aab42563b95e3398b64",
+      "time" : {
+        "start" : 1644246711175,
+        "stop" : 1644246711175,
+        "duration" : 0
+      }
+    } ]
+  },
+  "2aa2378289595927d9b601e357deb7d1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "647610bda2deff0a",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/647610bda2deff0a",
+      "status" : "broken",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"password must not be empty and email must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246733238,
+        "stop" : 1644246733238,
+        "duration" : 0
+      }
+    } ]
+  },
+  "b7ea80f314978665456119401e0051b3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d2a6fe4ca07da06f",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/d2a6fe4ca07da06f",
+      "status" : "skipped",
+      "statusDetails" : "invalid argument\n  (Session info: chrome=97.0.4692.99)\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'fv-az77-105', ip: '10.1.0.169', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '1.8.0_292'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [e821219f3f88da56466d5024a9e4ceff, get {url=}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /tmp/.com.google.Chrome.caEcpt}, goog:chromeOptions: {debuggerAddress: localhost:33145}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:33145/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: e821219f3f88da56466d5024a9e4ceff",
+      "time" : {
+        "start" : 1644246701638,
+        "stop" : 1644246701639,
+        "duration" : 1
+      }
+    } ]
+  },
+  "2d190fc523394b7ef15e826c826dc957" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "74f2f79917cffac4",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/74f2f79917cffac4",
+      "status" : "skipped",
+      "statusDetails" : "invalid argument\n  (Session info: chrome=97.0.4692.99)\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'fv-az77-105', ip: '10.1.0.169', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '1.8.0_292'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [e821219f3f88da56466d5024a9e4ceff, get {url=}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /tmp/.com.google.Chrome.caEcpt}, goog:chromeOptions: {debuggerAddress: localhost:33145}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:33145/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: e821219f3f88da56466d5024a9e4ceff",
+      "time" : {
+        "start" : 1644246699544,
+        "stop" : 1644246699545,
+        "duration" : 1
+      }
+    } ]
+  },
+  "90fe7ea846437a7d8a9f9bc92b6a68e5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8a7e30841dac968a",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/8a7e30841dac968a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1644246709507,
+        "stop" : 1644246717205,
+        "duration" : 7698
+      }
+    } ]
+  },
+  "6626a23189ac841bf4fd0cc7e0d3da88" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "11766a5cede04baa",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/11766a5cede04baa",
+      "status" : "skipped",
+      "statusDetails" : "invalid argument\n  (Session info: chrome=97.0.4692.99)\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'fv-az77-105', ip: '10.1.0.169', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '1.8.0_292'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [b6061042d9bf35cd18cce1242d1f3968, get {url=}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /tmp/.com.google.Chrome.yO10XU}, goog:chromeOptions: {debuggerAddress: localhost:34237}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:34237/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: b6061042d9bf35cd18cce1242d1f3968",
+      "time" : {
+        "start" : 1644246726411,
+        "stop" : 1644246726411,
+        "duration" : 0
+      }
+    } ]
+  },
+  "7dab0fb707943b4e3776fefbd1d0e630" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a7868bbfd8bd2878",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/a7868bbfd8bd2878",
+      "status" : "skipped",
+      "statusDetails" : "invalid argument\n  (Session info: chrome=97.0.4692.99)\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'fv-az77-105', ip: '10.1.0.169', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '1.8.0_292'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [152146c16e4ea660a3732e4a2a0f4ffc, get {url=}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /tmp/.com.google.Chrome.dJNTRs}, goog:chromeOptions: {debuggerAddress: localhost:43663}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:43663/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 152146c16e4ea660a3732e4a2a0f4ffc",
+      "time" : {
+        "start" : 1644246712731,
+        "stop" : 1644246712732,
+        "duration" : 1
+      }
+    } ]
+  },
+  "f8c5c9eef8230b231218bbecca871bb5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b728d50706723489",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/b728d50706723489",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"password must not be empty and email must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246700498,
+        "stop" : 1644246700498,
+        "duration" : 0
+      }
+    } ]
+  },
+  "965044fb2cb4a1a8f156a985e156ee8b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "85f3e832c21acf44",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/85f3e832c21acf44",
+      "status" : "skipped",
+      "statusDetails" : "invalid argument\n  (Session info: chrome=97.0.4692.99)\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'fv-az77-105', ip: '10.1.0.169', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '1.8.0_292'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [239c48dd19de6ba7c747268d088a004c, get {url=}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /tmp/.com.google.Chrome.5MI8vd}, goog:chromeOptions: {debuggerAddress: localhost:33363}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:33363/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 239c48dd19de6ba7c747268d088a004c",
+      "time" : {
+        "start" : 1644246706259,
+        "stop" : 1644246706259,
+        "duration" : 0
+      }
+    } ]
+  },
+  "7781934045aefe4cf70f3208e0739cd7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8cd8b4a3a52ffcd6",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/8cd8b4a3a52ffcd6",
+      "status" : "broken",
+      "statusDetails" : "invalid argument\n  (Session info: chrome=97.0.4692.99)\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'fv-az77-105', ip: '10.1.0.169', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '1.8.0_292'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [83f7057faaecc677387e5fa2ffdae4a2, get {url=}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /tmp/.com.google.Chrome.XThGhn}, goog:chromeOptions: {debuggerAddress: localhost:46041}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:46041/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 83f7057faaecc677387e5fa2ffdae4a2",
+      "time" : {
+        "start" : 1644246692784,
+        "stop" : 1644246693884,
+        "duration" : 1100
+      }
+    } ]
+  },
+  "12bb9e0cbdf572d192e9a85adced3d58" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8f84c6037f96888c",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/8f84c6037f96888c",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"password must not be empty and email must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246701545,
+        "stop" : 1644246701545,
+        "duration" : 0
+      }
+    } ]
+  },
+  "4e1f81ae5fab1a80bb53d0682a3de3d6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6a81691ed2d5e4f6",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/6a81691ed2d5e4f6",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"email must not be empty and password must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246688123,
+        "stop" : 1644246688123,
+        "duration" : 0
+      }
+    } ]
+  },
+  "20457c47d535bd49aebadbd9a1fa01d5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "be45f6ff7e00b338",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/be45f6ff7e00b338",
+      "status" : "passed",
+      "time" : {
+        "start" : 1644246721321,
+        "stop" : 1644246728772,
+        "duration" : 7451
+      }
+    } ]
+  },
+  "dd7438330e243097a68616bd85e068" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c58bddacb69d8677",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/c58bddacb69d8677",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"password must not be empty and email must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246733244,
+        "stop" : 1644246733244,
+        "duration" : 0
+      }
+    } ]
+  },
+  "32b7341d28277e3b5060ddbe5addbd73" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f01c950d2452a38b",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/f01c950d2452a38b",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"email must not be empty and password must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246734218,
+        "stop" : 1644246734218,
+        "duration" : 0
+      }
+    } ]
+  },
+  "5e27942a0fc86d1bc5feddf67692311d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a2f67fba831bfb33",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/a2f67fba831bfb33",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"password must not be empty and email must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246735196,
+        "stop" : 1644246735197,
+        "duration" : 1
+      }
+    } ]
+  },
+  "236c628f48660c6a697949f780f7061b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "89eeed33208f0fc2",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/89eeed33208f0fc2",
+      "status" : "skipped",
+      "statusDetails" : "invalid argument\n  (Session info: chrome=97.0.4692.99)\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'fv-az77-105', ip: '10.1.0.169', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '1.8.0_292'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [9cd580593cf64aab42563b95e3398b64, get {url=}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /tmp/.com.google.Chrome.KMKejq}, goog:chromeOptions: {debuggerAddress: localhost:34975}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:34975/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 9cd580593cf64aab42563b95e3398b64",
+      "time" : {
+        "start" : 1644246710306,
+        "stop" : 1644246710306,
+        "duration" : 0
+      }
+    } ]
+  },
+  "7c0be30a8f78aa542baedbca9d52412e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3a2e90bab504bf4c",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/3a2e90bab504bf4c",
+      "status" : "broken",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"email must not be empty and password must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246688110,
+        "stop" : 1644246688110,
+        "duration" : 0
+      }
+    } ]
+  },
+  "45093e3fc1e4400a0c984950dca551d9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fc25652d78016e56",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/fc25652d78016e56",
+      "status" : "broken",
+      "statusDetails" : "invalid argument\n  (Session info: chrome=97.0.4692.99)\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'fv-az77-105', ip: '10.1.0.169', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '1.8.0_292'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [d3b26caf4f7c03aa14a8ddce074c22a0, get {url=}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /tmp/.com.google.Chrome.bvpYgH}, goog:chromeOptions: {debuggerAddress: localhost:34247}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:34247/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: d3b26caf4f7c03aa14a8ddce074c22a0",
+      "time" : {
+        "start" : 1644246681501,
+        "stop" : 1644246688504,
+        "duration" : 7003
+      }
+    } ]
+  },
+  "d1a7f2ac1f0ed8068258178134676d12" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a18ef7734413ad1a",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/a18ef7734413ad1a",
+      "status" : "broken",
+      "statusDetails" : "invalid argument\n  (Session info: chrome=97.0.4692.99)\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'fv-az77-105', ip: '10.1.0.169', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '1.8.0_292'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [cdf6229ad21c11d5e041df007d3c422e, get {url=}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /tmp/.com.google.Chrome.qbcHCD}, goog:chromeOptions: {debuggerAddress: localhost:33411}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:33411/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: cdf6229ad21c11d5e041df007d3c422e",
+      "time" : {
+        "start" : 1644246700241,
+        "stop" : 1644246701204,
+        "duration" : 963
+      }
+    } ]
+  },
+  "7dab4ecad0cf19074bfd7eb0a45024c8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8756571d2cd98dde",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/8756571d2cd98dde",
+      "status" : "broken",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"password must not be empty and email must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246735193,
+        "stop" : 1644246735193,
+        "duration" : 0
+      }
+    } ]
+  },
+  "6893a14e26c3bdfecdee91a7a2d57dc4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4774a114b27e641e",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/4774a114b27e641e",
+      "status" : "broken",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"password must not be empty and email must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246705590,
+        "stop" : 1644246705590,
+        "duration" : 0
+      }
+    } ]
+  },
+  "c717ae46ca7d53499098b4f4a897b060" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "15dbf917558dd8ea",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/15dbf917558dd8ea",
+      "status" : "skipped",
+      "statusDetails" : "invalid argument\n  (Session info: chrome=97.0.4692.99)\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'fv-az77-105', ip: '10.1.0.169', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '1.8.0_292'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [152146c16e4ea660a3732e4a2a0f4ffc, get {url=}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /tmp/.com.google.Chrome.dJNTRs}, goog:chromeOptions: {debuggerAddress: localhost:43663}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:43663/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 152146c16e4ea660a3732e4a2a0f4ffc",
+      "time" : {
+        "start" : 1644246716042,
+        "stop" : 1644246716042,
+        "duration" : 0
+      }
+    } ]
+  },
+  "aef77ebf6a778393e5d27eced58d79b9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "85fe12034a47b3ba",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/85fe12034a47b3ba",
+      "status" : "skipped",
+      "statusDetails" : "invalid argument\n  (Session info: chrome=97.0.4692.99)\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'fv-az77-105', ip: '10.1.0.169', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '1.8.0_292'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [152146c16e4ea660a3732e4a2a0f4ffc, get {url=}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /tmp/.com.google.Chrome.dJNTRs}, goog:chromeOptions: {debuggerAddress: localhost:43663}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:43663/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 152146c16e4ea660a3732e4a2a0f4ffc",
+      "time" : {
+        "start" : 1644246715202,
+        "stop" : 1644246715203,
+        "duration" : 1
+      }
+    } ]
+  },
+  "42d0011745c77150021aa8d8cccfba07" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5e74078ec62f6298",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/5e74078ec62f6298",
+      "status" : "skipped",
+      "statusDetails" : "invalid argument\n  (Session info: chrome=97.0.4692.99)\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'fv-az77-105', ip: '10.1.0.169', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '1.8.0_292'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [4944f5f4b4421123539bb957067b15fc, get {url=}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /tmp/.com.google.Chrome.6MX9xW}, goog:chromeOptions: {debuggerAddress: localhost:38419}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:38419/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 4944f5f4b4421123539bb957067b15fc",
+      "time" : {
+        "start" : 1644246690059,
+        "stop" : 1644246690061,
+        "duration" : 2
+      }
+    } ]
+  },
+  "9e343e1f390387148ff2f0ae100cbe10" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "223007ae339072bd",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/223007ae339072bd",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"password must not be empty and email must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246701558,
+        "stop" : 1644246701560,
+        "duration" : 2
+      }
+    } ]
+  },
+  "19ffa442394f1e73be15cd57d8bba56a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a910df382860b8e8",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/a910df382860b8e8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1644246735201,
+        "stop" : 1644246736780,
+        "duration" : 1579
+      }
+    } ]
+  },
+  "4881863b9cb6d4e808149111dad0ba89" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "42c18799396b6acc",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/42c18799396b6acc",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"email must not be empty and password must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246703586,
+        "stop" : 1644246703586,
+        "duration" : 0
+      }
+    } ]
+  },
+  "2b0a8494c39c24005b4ebb0e9f1e90ca" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d52b7e89461b3e8e",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/d52b7e89461b3e8e",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"email must not be empty and password must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246688125,
+        "stop" : 1644246688125,
+        "duration" : 0
+      }
+    } ]
+  },
+  "7ceb502c964097a361bc9f49af951558" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6810cfe5d2d3ad01",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/6810cfe5d2d3ad01",
+      "status" : "skipped",
+      "statusDetails" : "invalid argument\n  (Session info: chrome=97.0.4692.99)\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'fv-az77-105', ip: '10.1.0.169', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '1.8.0_292'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [152146c16e4ea660a3732e4a2a0f4ffc, get {url=}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /tmp/.com.google.Chrome.dJNTRs}, goog:chromeOptions: {debuggerAddress: localhost:43663}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:43663/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 152146c16e4ea660a3732e4a2a0f4ffc",
+      "time" : {
+        "start" : 1644246713573,
+        "stop" : 1644246713573,
+        "duration" : 0
+      }
+    } ]
+  },
+  "2a4856f21c557d7f0df259a2076eb705" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "110d74cf9952289c",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/110d74cf9952289c",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"email must not be empty and password must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246691244,
+        "stop" : 1644246691244,
+        "duration" : 0
+      }
+    } ]
+  },
+  "a3a5a22f62c208db5a6d9e3ee3415d6a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4297ba5521e8b926",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/4297ba5521e8b926",
+      "status" : "skipped",
+      "statusDetails" : "invalid argument\n  (Session info: chrome=97.0.4692.99)\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'fv-az77-105', ip: '10.1.0.169', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '1.8.0_292'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [e821219f3f88da56466d5024a9e4ceff, get {url=}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /tmp/.com.google.Chrome.caEcpt}, goog:chromeOptions: {debuggerAddress: localhost:33145}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:33145/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: e821219f3f88da56466d5024a9e4ceff",
+      "time" : {
+        "start" : 1644246705489,
+        "stop" : 1644246705489,
+        "duration" : 0
+      }
+    } ]
+  },
+  "ac0bc02174b80515317f5f65ddbd1844" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "64508d3dd6d2999d",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/64508d3dd6d2999d",
+      "status" : "broken",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"password must not be empty and email must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246698422,
+        "stop" : 1644246698422,
+        "duration" : 0
+      }
+    } ]
+  },
+  "867c05818644afd4d40222f9b2c36b88" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8390f92a5beef5e9",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/8390f92a5beef5e9",
+      "status" : "skipped",
+      "statusDetails" : "invalid argument\n  (Session info: chrome=97.0.4692.99)\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'fv-az77-105', ip: '10.1.0.169', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '1.8.0_292'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [e821219f3f88da56466d5024a9e4ceff, get {url=}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /tmp/.com.google.Chrome.caEcpt}, goog:chromeOptions: {debuggerAddress: localhost:33145}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:33145/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: e821219f3f88da56466d5024a9e4ceff",
+      "time" : {
+        "start" : 1644246702809,
+        "stop" : 1644246702809,
+        "duration" : 0
+      }
+    } ]
+  },
+  "2b0eb991c3a1b9104dd23f377689a5f3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4986b35a0030704d",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/4986b35a0030704d",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"password must not be empty and email must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246698452,
+        "stop" : 1644246698452,
+        "duration" : 0
+      }
+    } ]
+  },
+  "f818c50701726790c8e2f2b100a6aa36" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "62cfcfbecdde7460",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/62cfcfbecdde7460",
+      "status" : "broken",
+      "statusDetails" : "invalid argument\n  (Session info: chrome=97.0.4692.99)\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'fv-az77-105', ip: '10.1.0.169', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '1.8.0_292'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [239c48dd19de6ba7c747268d088a004c, get {url=}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /tmp/.com.google.Chrome.5MI8vd}, goog:chromeOptions: {debuggerAddress: localhost:33363}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:33363/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 239c48dd19de6ba7c747268d088a004c",
+      "time" : {
+        "start" : 1644246706255,
+        "stop" : 1644246706255,
+        "duration" : 0
+      }
+    } ]
+  },
+  "75ad15ee60680405726517955b1d4920" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cdae6ab7707a866b",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/cdae6ab7707a866b",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"password must not be empty and email must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246698424,
+        "stop" : 1644246698426,
+        "duration" : 2
+      }
+    } ]
+  },
+  "296473be7059e99e069d4a3637624dcb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1bbe26628fe3e12",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/1bbe26628fe3e12",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"password must not be empty and email must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246699489,
+        "stop" : 1644246699490,
+        "duration" : 1
+      }
+    } ]
+  },
+  "bdcc2d55893e56a983742dd6b5014565" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b599eded1f234688",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/b599eded1f234688",
+      "status" : "broken",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"email must not be empty and password must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246687035,
+        "stop" : 1644246687035,
+        "duration" : 0
+      }
+    } ]
+  },
+  "3281c4f9f9d6fcac2984b3e922e90d07" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "de1d76c73b0c21b4",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/de1d76c73b0c21b4",
+      "status" : "skipped",
+      "statusDetails" : "invalid argument\n  (Session info: chrome=97.0.4692.99)\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'fv-az77-105', ip: '10.1.0.169', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '1.8.0_292'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [e821219f3f88da56466d5024a9e4ceff, get {url=}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /tmp/.com.google.Chrome.caEcpt}, goog:chromeOptions: {debuggerAddress: localhost:33145}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:33145/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: e821219f3f88da56466d5024a9e4ceff",
+      "time" : {
+        "start" : 1644246704655,
+        "stop" : 1644246704657,
+        "duration" : 2
+      }
+    } ]
+  },
+  "42150247a9f0fd38ffac451df3782c62" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f19c527a49096571",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/f19c527a49096571",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"password must not be empty and email must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246698438,
+        "stop" : 1644246698439,
+        "duration" : 1
+      }
+    } ]
+  },
+  "1b357d7d3e0df694619d7b2cb5b398cb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 1,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6fca6b71683139b7",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/6fca6b71683139b7",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1644246680391,
+        "stop" : 1644246680391,
+        "duration" : 0
+      }
+    } ]
+  },
+  "cb97b1aa1941cddf04dc462fc6adabba" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b2c21ed5c617759e",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/b2c21ed5c617759e",
+      "status" : "broken",
+      "statusDetails" : "invalid argument\n  (Session info: chrome=97.0.4692.99)\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'fv-az77-105', ip: '10.1.0.169', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '1.8.0_292'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [6f466ec5955e6c07fb7c19675051b573, get {url=}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /tmp/.com.google.Chrome.zjDC3j}, goog:chromeOptions: {debuggerAddress: localhost:41511}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:41511/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 6f466ec5955e6c07fb7c19675051b573",
+      "time" : {
+        "start" : 1644246705487,
+        "stop" : 1644246705487,
+        "duration" : 0
+      }
+    } ]
+  },
+  "54ebf68cc73ab344774998b542f173f0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2889f1952148fa15",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/2889f1952148fa15",
+      "status" : "broken",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"password must not be empty and email must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246699480,
+        "stop" : 1644246699480,
+        "duration" : 0
+      }
+    } ]
+  },
+  "3d92db04b68eaa79dde2ad2760f3a30d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "48bf8c065640d0ec",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/48bf8c065640d0ec",
+      "status" : "skipped",
+      "statusDetails" : "invalid argument\n  (Session info: chrome=97.0.4692.99)\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'fv-az77-105', ip: '10.1.0.169', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '1.8.0_292'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [4944f5f4b4421123539bb957067b15fc, get {url=}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /tmp/.com.google.Chrome.6MX9xW}, goog:chromeOptions: {debuggerAddress: localhost:38419}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:38419/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 4944f5f4b4421123539bb957067b15fc",
+      "time" : {
+        "start" : 1644246691630,
+        "stop" : 1644246691630,
+        "duration" : 0
+      }
+    } ]
+  },
+  "3ab73dfdca7c977afd5ba4e26d1a611e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "252be78f3d7f56f8",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/252be78f3d7f56f8",
+      "status" : "broken",
+      "statusDetails" : "invalid argument\n  (Session info: chrome=97.0.4692.99)\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'fv-az77-105', ip: '10.1.0.169', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '1.8.0_292'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [cda3b111ed1299e69399591c8d483011, get {url=}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /tmp/.com.google.Chrome.BK8Rkb}, goog:chromeOptions: {debuggerAddress: localhost:36781}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:36781/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: cda3b111ed1299e69399591c8d483011",
+      "time" : {
+        "start" : 1644246696047,
+        "stop" : 1644246697186,
+        "duration" : 1139
+      }
+    } ]
+  },
+  "9e552b1ed03a57a22c784d0fc4c01963" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f236084f9a27b1c9",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/f236084f9a27b1c9",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"password must not be empty and email must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246735198,
+        "stop" : 1644246735198,
+        "duration" : 0
+      }
+    } ]
+  },
+  "ec7c7b5c843904f494c9b91ed05c23a2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e79552e0c77c990",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/e79552e0c77c990",
+      "status" : "skipped",
+      "statusDetails" : "invalid argument\n  (Session info: chrome=97.0.4692.99)\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'fv-az77-105', ip: '10.1.0.169', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '1.8.0_292'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [e821219f3f88da56466d5024a9e4ceff, get {url=}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /tmp/.com.google.Chrome.caEcpt}, goog:chromeOptions: {debuggerAddress: localhost:33145}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:33145/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: e821219f3f88da56466d5024a9e4ceff",
+      "time" : {
+        "start" : 1644246703879,
+        "stop" : 1644246703879,
+        "duration" : 0
+      }
+    } ]
+  },
+  "546b24a9567302935243d223bcd6e976" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4e6fe4b91ac81ad7",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/4e6fe4b91ac81ad7",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"password must not be empty and email must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246698441,
+        "stop" : 1644246698441,
+        "duration" : 0
+      }
+    } ]
+  },
+  "ddb459d4e1eeaa807b0f9e6fcdb9f39c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8915ab80f22d4f08",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/8915ab80f22d4f08",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"password must not be empty and email must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246698455,
+        "stop" : 1644246698455,
+        "duration" : 0
+      }
+    } ]
+  },
+  "3e18aad39dd8d9c21d3a67e6ba45663b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1905448eda60f3c1",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/1905448eda60f3c1",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"password must not be empty and email must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246733239,
+        "stop" : 1644246733240,
+        "duration" : 1
+      }
+    } ]
+  },
+  "1b034476cc8d9d83c6bceee9b37bb0f8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "48363c92bbcd784b",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/48363c92bbcd784b",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"password must not be empty and email must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246704605,
+        "stop" : 1644246704605,
+        "duration" : 0
+      }
+    } ]
+  },
+  "2c28181bddb2abccbedfbbec79e1e6a9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1863e620ab54cb6a",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/1863e620ab54cb6a",
+      "status" : "broken",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"password must not be empty and email must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246701519,
+        "stop" : 1644246701519,
+        "duration" : 0
+      }
+    } ]
+  },
+  "a0e555bd90ebdb0d84cfdb05e9ea09fc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "864af328e841816f",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/864af328e841816f",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"password must not be empty and email must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246735199,
+        "stop" : 1644246735199,
+        "duration" : 0
+      }
+    } ]
+  },
+  "364e27044e0161bbc73aa554ee8ddd1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "818fde34bdadfb1d",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/818fde34bdadfb1d",
+      "status" : "broken",
+      "statusDetails" : "invalid argument\n  (Session info: chrome=97.0.4692.99)\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'fv-az77-105', ip: '10.1.0.169', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '1.8.0_292'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [44f09d5dc6c3021716e838b0c5c0d654, get {url=}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /tmp/.com.google.Chrome.PeYilG}, goog:chromeOptions: {debuggerAddress: localhost:40659}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:40659/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 44f09d5dc6c3021716e838b0c5c0d654",
+      "time" : {
+        "start" : 1644246697191,
+        "stop" : 1644246698221,
+        "duration" : 1030
+      }
+    } ]
+  },
+  "c616aadb0381fcd83e5e8e59defbd30f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "eb1a36873bdc4eae",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/eb1a36873bdc4eae",
+      "status" : "skipped",
+      "statusDetails" : "invalid argument\n  (Session info: chrome=97.0.4692.99)\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'fv-az77-105', ip: '10.1.0.169', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '1.8.0_292'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [d3dc6500c358e32ddfa6c1345ace7fa2, get {url=}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /tmp/.com.google.Chrome.oll8KK}, goog:chromeOptions: {debuggerAddress: localhost:40431}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:40431/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: d3dc6500c358e32ddfa6c1345ace7fa2",
+      "time" : {
+        "start" : 1644246720854,
+        "stop" : 1644246720854,
+        "duration" : 0
+      }
+    } ]
+  },
+  "acb1b3c122e9130cabef4d68aa09efd5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7d5e6b4c8bff7114",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/7d5e6b4c8bff7114",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"email must not be empty and password must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246703593,
+        "stop" : 1644246703594,
+        "duration" : 1
+      }
+    } ]
+  },
+  "a7975e28d2ec31651a083bf1c6b965f6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "34e49830390f057a",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/34e49830390f057a",
+      "status" : "broken",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"email must not be empty and password must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246691233,
+        "stop" : 1644246691236,
+        "duration" : 3
+      }
+    } ]
+  },
+  "9f0c199abe1633b500d28df34d83fdaa" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2c74547914c33352",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/2c74547914c33352",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"email must not be empty and password must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246691275,
+        "stop" : 1644246691280,
+        "duration" : 5
+      }
+    } ]
+  },
+  "4cf7feee88a29d0c3f6e65665d21f5ad" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "428cba87c3ac18aa",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/428cba87c3ac18aa",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"password must not be empty and email must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246700502,
+        "stop" : 1644246700502,
+        "duration" : 0
+      }
+    } ]
+  },
+  "57de715d58ed4b22069319870bc3afed" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "74197c7cef142f0",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/74197c7cef142f0",
+      "status" : "skipped",
+      "statusDetails" : "invalid argument\n  (Session info: chrome=97.0.4692.99)\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'fv-az77-105', ip: '10.1.0.169', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '1.8.0_292'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [9cd580593cf64aab42563b95e3398b64, get {url=}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /tmp/.com.google.Chrome.KMKejq}, goog:chromeOptions: {debuggerAddress: localhost:34975}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:34975/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 9cd580593cf64aab42563b95e3398b64",
+      "time" : {
+        "start" : 1644246709567,
+        "stop" : 1644246709567,
+        "duration" : 0
+      }
+    } ]
+  },
+  "91a4eadc8fcaed5ef2a2eb00eeebe764" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8850fae86f0931e2",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/8850fae86f0931e2",
+      "status" : "skipped",
+      "statusDetails" : "invalid argument\n  (Session info: chrome=97.0.4692.99)\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'fv-az77-105', ip: '10.1.0.169', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '1.8.0_292'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [4944f5f4b4421123539bb957067b15fc, get {url=}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /tmp/.com.google.Chrome.6MX9xW}, goog:chromeOptions: {debuggerAddress: localhost:38419}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:38419/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 4944f5f4b4421123539bb957067b15fc",
+      "time" : {
+        "start" : 1644246692792,
+        "stop" : 1644246692792,
+        "duration" : 0
+      }
+    } ]
+  },
+  "cdc7ecaa120419d0d2ed109491acaef9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c7549a027b266e63",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/c7549a027b266e63",
+      "status" : "passed",
+      "time" : {
+        "start" : 1644246717214,
+        "stop" : 1644246718319,
+        "duration" : 1105
+      }
+    } ]
+  },
+  "76c76d6e57053477f871688b4bc17511" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "86cb2c058ad78a76",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/86cb2c058ad78a76",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"email must not be empty and password must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246687057,
+        "stop" : 1644246687060,
+        "duration" : 3
+      }
+    } ]
+  },
+  "a903fb42f5a76913fdf150184828b2d2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2994f4f591e16842",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/2994f4f591e16842",
+      "status" : "broken",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"email must not be empty and password must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246734215,
+        "stop" : 1644246734215,
+        "duration" : 0
+      }
+    } ]
+  },
+  "9853471d0eac2bbc988447c8af39172d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fad88df0ad3bec5a",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/fad88df0ad3bec5a",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"email must not be empty and password must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246702596,
+        "stop" : 1644246702596,
+        "duration" : 0
+      }
+    } ]
+  },
+  "2d75d2cb3cef809f7059f863b9e96599" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "784706d61f3ab2d9",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/784706d61f3ab2d9",
+      "status" : "failed",
+      "statusDetails" : "expected [404] but found [401]",
+      "time" : {
+        "start" : 1644246720346,
+        "stop" : 1644246721317,
+        "duration" : 971
+      }
+    } ]
+  },
+  "cd8c2d9b1aa29a21c92ee401d2fec743" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f63184fa61695613",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/f63184fa61695613",
+      "status" : "passed",
+      "time" : {
+        "start" : 1644246688140,
+        "stop" : 1644246690212,
+        "duration" : 2072
+      }
+    } ]
+  },
+  "2869f6801ab4acb85271734bae3fdc0f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "223dcb3294613dd6",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/223dcb3294613dd6",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"password must not be empty and email must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246699488,
+        "stop" : 1644246699488,
+        "duration" : 0
+      }
+    } ]
+  },
+  "b02a971f2d992ba54556e619950c464a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b8167508c95d6e24",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/b8167508c95d6e24",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"password must not be empty and email must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246704610,
+        "stop" : 1644246704611,
+        "duration" : 1
+      }
+    } ]
+  },
+  "47079a9f441433ad07abb5e706aaa47b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9d7d6d253891ba11",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/9d7d6d253891ba11",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"password must not be empty and email must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246704603,
+        "stop" : 1644246704603,
+        "duration" : 0
+      }
+    } ]
+  },
+  "15afff6fb2f32145423da739f743cdd9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "be40233880bf1ecb",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/be40233880bf1ecb",
+      "status" : "broken",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"password must not be empty and email must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246700488,
+        "stop" : 1644246700488,
+        "duration" : 0
+      }
+    } ]
+  },
+  "8e4c17f51feba66ec161c599ccbbf03c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "11105be3152f1d88",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/11105be3152f1d88",
+      "status" : "skipped",
+      "statusDetails" : "invalid argument\n  (Session info: chrome=97.0.4692.99)\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'fv-az77-105', ip: '10.1.0.169', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '1.8.0_292'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [e821219f3f88da56466d5024a9e4ceff, get {url=}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /tmp/.com.google.Chrome.caEcpt}, goog:chromeOptions: {debuggerAddress: localhost:33145}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:33145/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: e821219f3f88da56466d5024a9e4ceff",
+      "time" : {
+        "start" : 1644246695987,
+        "stop" : 1644246695987,
+        "duration" : 0
+      }
+    } ]
+  },
+  "ad2b076f075f97971ada61c5981cb5c6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "149b034d15dc1262",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/149b034d15dc1262",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"email must not be empty and password must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246691242,
+        "stop" : 1644246691242,
+        "duration" : 0
+      }
+    } ]
+  },
+  "35a6b28c0c538ab6df6c34c2fae0f42d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2f5e5ea871906b71",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/2f5e5ea871906b71",
+      "status" : "broken",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"email must not be empty and password must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246703583,
+        "stop" : 1644246703583,
+        "duration" : 0
+      }
+    } ]
+  },
+  "3d30d1915e8954e9ef72239a7439ab04" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d6453de70de8ed64",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/d6453de70de8ed64",
+      "status" : "broken",
+      "statusDetails" : "invalid argument\n  (Session info: chrome=97.0.4692.99)\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'fv-az77-105', ip: '10.1.0.169', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '1.8.0_292'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [4b311c8bf78042c7a5abad062678b221, get {url=}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /tmp/.com.google.Chrome.uRHW3W}, goog:chromeOptions: {debuggerAddress: localhost:39061}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:39061/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 4b311c8bf78042c7a5abad062678b221",
+      "time" : {
+        "start" : 1644246701209,
+        "stop" : 1644246702232,
+        "duration" : 1023
+      }
+    } ]
+  },
+  "64cb7b38b1cefdd72bbcd9fd804fc48b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6185c4ed035ab067",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/6185c4ed035ab067",
+      "status" : "skipped",
+      "statusDetails" : "invalid argument\n  (Session info: chrome=97.0.4692.99)\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'fv-az77-105', ip: '10.1.0.169', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '1.8.0_292'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [43eaa945c4d2144f88b0693a628edfc7, get {url=}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /tmp/.com.google.Chrome.dseXtW}, goog:chromeOptions: {debuggerAddress: localhost:34417}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:34417/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 43eaa945c4d2144f88b0693a628edfc7",
+      "time" : {
+        "start" : 1644246711987,
+        "stop" : 1644246711987,
+        "duration" : 0
+      }
+    } ]
+  },
+  "70a225b965b6bdd6c24eca90aa0f1fc3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f7cbf67c4cc8fd4a",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/f7cbf67c4cc8fd4a",
+      "status" : "broken",
+      "statusDetails" : "invalid argument\n  (Session info: chrome=97.0.4692.99)\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'fv-az77-105', ip: '10.1.0.169', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '1.8.0_292'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [3fbd5910ec98b2cdd6b279baaeb90591, get {url=}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /tmp/.com.google.Chrome.qVbD6y}, goog:chromeOptions: {debuggerAddress: localhost:43589}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:43589/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 3fbd5910ec98b2cdd6b279baaeb90591",
+      "time" : {
+        "start" : 1644246695036,
+        "stop" : 1644246696042,
+        "duration" : 1006
+      }
+    } ]
+  },
+  "1c73faae05e1ccc4fdc53c46c2468a60" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c48b5549494bc30d",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/c48b5549494bc30d",
+      "status" : "skipped",
+      "statusDetails" : "invalid argument\n  (Session info: chrome=97.0.4692.99)\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'fv-az77-105', ip: '10.1.0.169', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '1.8.0_292'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [e821219f3f88da56466d5024a9e4ceff, get {url=}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /tmp/.com.google.Chrome.caEcpt}, goog:chromeOptions: {debuggerAddress: localhost:33145}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:33145/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: e821219f3f88da56466d5024a9e4ceff",
+      "time" : {
+        "start" : 1644246697095,
+        "stop" : 1644246697096,
+        "duration" : 1
+      }
+    } ]
+  },
+  "af7f73af97b3683a5d4d7e05261a8fa3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "58d53529b8931f9e",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/58d53529b8931f9e",
+      "status" : "skipped",
+      "statusDetails" : "invalid argument\n  (Session info: chrome=97.0.4692.99)\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'fv-az77-105', ip: '10.1.0.169', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '1.8.0_292'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [8794e916c99c0a696e1d8e6ccdec2e7a, get {url=}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /tmp/.com.google.Chrome.LRwYoL}, goog:chromeOptions: {debuggerAddress: localhost:41643}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:41643/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 8794e916c99c0a696e1d8e6ccdec2e7a",
+      "time" : {
+        "start" : 1644246718480,
+        "stop" : 1644246718480,
+        "duration" : 0
+      }
+    } ]
+  },
+  "89841995d066e142747f8d0651c012d3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7c1421e2c274a463",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/7c1421e2c274a463",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"email must not be empty and password must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246687065,
+        "stop" : 1644246687076,
+        "duration" : 11
+      }
+    } ]
+  },
+  "ace2ae124ebb58572432005bc43e49cb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5b1ac35de9d1eee2",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/5b1ac35de9d1eee2",
+      "status" : "broken",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.registration.SuccessRegistration), not marked as ignorable (3 known properties: \"roleName\", \"id\", \"email\"])\n at [Source: (String)\"{\"status\":401,\"message\":\"Email awdcftgbhumiookk@gmail.com already exist\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.registration.SuccessRegistration[\"status\"])",
+      "time" : {
+        "start" : 1644246730764,
+        "stop" : 1644246732257,
+        "duration" : 1493
+      }
+    } ]
+  },
+  "cbbcebcb65df8d51c2836daae1e5d77" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a3262002bef56a49",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/a3262002bef56a49",
+      "status" : "skipped",
+      "statusDetails" : "invalid argument\n  (Session info: chrome=97.0.4692.99)\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'fv-az77-105', ip: '10.1.0.169', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '1.8.0_292'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [e821219f3f88da56466d5024a9e4ceff, get {url=}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /tmp/.com.google.Chrome.caEcpt}, goog:chromeOptions: {debuggerAddress: localhost:33145}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:33145/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: e821219f3f88da56466d5024a9e4ceff",
+      "time" : {
+        "start" : 1644246694884,
+        "stop" : 1644246694884,
+        "duration" : 0
+      }
+    } ]
+  },
+  "70c9ce43d80665a7432155e3268952a5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b598f66fe6fc3125",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/b598f66fe6fc3125",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"password must not be empty and email must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246733242,
+        "stop" : 1644246733242,
+        "duration" : 0
+      }
+    } ]
+  },
+  "c03b3a8829ab95d78bbda0b578edff66" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4033d29b010fc1c2",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/4033d29b010fc1c2",
+      "status" : "broken",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"password must not be empty and email must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246704601,
+        "stop" : 1644246704601,
+        "duration" : 0
+      }
+    } ]
+  },
+  "77243959d3823514e3937710365af983" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "be9b002536116028",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/be9b002536116028",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"email must not be empty and password must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246688128,
+        "stop" : 1644246688136,
+        "duration" : 8
+      }
+    } ]
+  },
+  "a7c333cba8f1c863afb37aeaf52e97ec" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 1,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e1d2602cccf07e29",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/e1d2602cccf07e29",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1644246680116,
+        "stop" : 1644246680117,
+        "duration" : 1
+      }
+    } ]
+  },
+  "eddaf9c823c7c6a372d0018a33ef8874" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a5380c9707dc9b30",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/a5380c9707dc9b30",
+      "status" : "passed",
+      "time" : {
+        "start" : 1644246705595,
+        "stop" : 1644246706617,
+        "duration" : 1022
+      }
+    } ]
+  },
+  "33efa822a293be865cd5216ed7b08f34" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a01afe4ea84a4a17",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/a01afe4ea84a4a17",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"password must not be empty and email must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246733241,
+        "stop" : 1644246733241,
+        "duration" : 0
+      }
+    } ]
+  },
+  "f15ea9d3ebd67dce2d481cdabf5e464e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2547afd933b0bae5",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/2547afd933b0bae5",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"email must not be empty and password must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246702593,
+        "stop" : 1644246702594,
+        "duration" : 1
+      }
+    } ]
+  },
+  "c3e94c68b561a8566940dc8a636db999" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c8ff396c925929f5",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/c8ff396c925929f5",
+      "status" : "skipped",
+      "statusDetails" : "invalid argument\n  (Session info: chrome=97.0.4692.99)\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'fv-az77-105', ip: '10.1.0.169', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '1.8.0_292'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [f05bf74342daf8290575dbd3c818a16c, get {url=}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /tmp/.com.google.Chrome.4SzYFC}, goog:chromeOptions: {debuggerAddress: localhost:45545}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:45545/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: f05bf74342daf8290575dbd3c818a16c",
+      "time" : {
+        "start" : 1644246688403,
+        "stop" : 1644246688411,
+        "duration" : 8
+      }
+    } ]
+  },
+  "be8a3f279d3cefcda92917759da7d2b2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4333f077ae2f3036",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/4333f077ae2f3036",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"password must not be empty and email must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246701540,
+        "stop" : 1644246701542,
+        "duration" : 2
+      }
+    } ]
+  },
+  "faffcc5d124a58840a0c6dc7eeb7aa5c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e4d0f4219e4b3a37",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/e4d0f4219e4b3a37",
+      "status" : "skipped",
+      "statusDetails" : "invalid argument\n  (Session info: chrome=97.0.4692.99)\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'fv-az77-105', ip: '10.1.0.169', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '1.8.0_292'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [e821219f3f88da56466d5024a9e4ceff, get {url=}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /tmp/.com.google.Chrome.caEcpt}, goog:chromeOptions: {debuggerAddress: localhost:33145}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:33145/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: e821219f3f88da56466d5024a9e4ceff",
+      "time" : {
+        "start" : 1644246693885,
+        "stop" : 1644246693892,
+        "duration" : 7
+      }
+    } ]
+  },
+  "e4db14f644462bf057daf1ac3873e77e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8157004a0d23b90f",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/8157004a0d23b90f",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"email must not be empty and password must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246703595,
+        "stop" : 1644246703595,
+        "duration" : 0
+      }
+    } ]
+  },
+  "ec35205c290718b2f2cd5cb56b77f85e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5b75fcaece4bf13",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/5b75fcaece4bf13",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"password must not be empty and email must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246705593,
+        "stop" : 1644246705593,
+        "duration" : 0
+      }
+    } ]
+  },
+  "7912ef3581136c573bf7976bfc87c659" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ac90aaad8b2ece9b",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/ac90aaad8b2ece9b",
+      "status" : "skipped",
+      "statusDetails" : "invalid argument\n  (Session info: chrome=97.0.4692.99)\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'fv-az77-105', ip: '10.1.0.169', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '1.8.0_292'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [d3dc6500c358e32ddfa6c1345ace7fa2, get {url=}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /tmp/.com.google.Chrome.oll8KK}, goog:chromeOptions: {debuggerAddress: localhost:40431}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:40431/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: d3dc6500c358e32ddfa6c1345ace7fa2",
+      "time" : {
+        "start" : 1644246731756,
+        "stop" : 1644246731757,
+        "duration" : 1
+      }
+    } ]
+  },
+  "f85ff1a3666dd50027e9b6e5622dd9d0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ee3f2463b0207644",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/ee3f2463b0207644",
+      "status" : "broken",
+      "statusDetails" : "invalid argument\n  (Session info: chrome=97.0.4692.99)\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'fv-az77-105', ip: '10.1.0.169', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '1.8.0_292'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [a7277b9ac6c69098d9a31a28c7e2acad, get {url=}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /tmp/.com.google.Chrome.9HTi9Y}, goog:chromeOptions: {debuggerAddress: localhost:36639}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:36639/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: a7277b9ac6c69098d9a31a28c7e2acad",
+      "time" : {
+        "start" : 1644246688565,
+        "stop" : 1644246690014,
+        "duration" : 1449
+      }
+    } ]
+  },
+  "96cce09f9c24628ab3dfa8f027682e6b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6e5e74fec5ef9e1a",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/6e5e74fec5ef9e1a",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"password must not be empty and email must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246698453,
+        "stop" : 1644246698454,
+        "duration" : 1
+      }
+    } ]
+  },
+  "dde06dba43b70260d65aeb5ed0994bf8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "165498f18b7b6293",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/165498f18b7b6293",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"email must not be empty and password must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246734216,
+        "stop" : 1644246734217,
+        "duration" : 1
+      }
+    } ]
+  },
+  "7cdb3ac2b2a82abfe8641f1070d6e475" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c93582523a2ef07f",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/c93582523a2ef07f",
+      "status" : "broken",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"email must not be empty and password must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246702580,
+        "stop" : 1644246702580,
+        "duration" : 0
+      }
+    } ]
+  },
+  "5397074ece72007460823fa1d29d1625" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "95cfb00978e8c448",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/95cfb00978e8c448",
+      "status" : "broken",
+      "statusDetails" : "invalid argument\n  (Session info: chrome=97.0.4692.99)\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'fv-az77-105', ip: '10.1.0.169', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '1.8.0_292'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [ad633fe96c79d2585c7397c9cb790d00, get {url=}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /tmp/.com.google.Chrome.ZJbkxN}, goog:chromeOptions: {debuggerAddress: localhost:35461}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:35461/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: ad633fe96c79d2585c7397c9cb790d00",
+      "time" : {
+        "start" : 1644246716040,
+        "stop" : 1644246716040,
+        "duration" : 0
+      }
+    } ]
+  },
+  "3e69a15781f84794488fdc8bcc97a1f2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f3e11518d72954d2",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/f3e11518d72954d2",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"password must not be empty and email must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246735195,
+        "stop" : 1644246735196,
+        "duration" : 1
+      }
+    } ]
+  },
+  "74a6d17bc6c34a88871ca30a40dae59e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "16f1375db9312440",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/16f1375db9312440",
+      "status" : "broken",
+      "statusDetails" : "invalid argument\n  (Session info: chrome=97.0.4692.99)\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'fv-az77-105', ip: '10.1.0.169', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '1.8.0_292'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [35878d9ee421a177db459669bb2c1d88, get {url=}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /tmp/.com.google.Chrome.DPJ8jI}, goog:chromeOptions: {debuggerAddress: localhost:43897}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:43897/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 35878d9ee421a177db459669bb2c1d88",
+      "time" : {
+        "start" : 1644246702234,
+        "stop" : 1644246703458,
+        "duration" : 1224
+      }
+    } ]
+  },
+  "6a9883ae1c45644d9029f391f0b3705d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9d3ee43a5ad9e298",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/9d3ee43a5ad9e298",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"password must not be empty and email must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246705591,
+        "stop" : 1644246705592,
+        "duration" : 1
+      }
+    } ]
+  },
+  "bcfc5bf60ee303078a2cc334e040e33c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "55ed9a257dfe9c21",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/55ed9a257dfe9c21",
+      "status" : "skipped",
+      "statusDetails" : "Unrecognized field \"status\" (class com.ita.edu.teachua.api.models.singin.SuccessSignIn), not marked as ignorable (3 known properties: \"id\", \"email\", \"accessToken\"])\n at [Source: (String)\"{\"status\":400,\"message\":\"password must not be empty and email must not be empty\"}\"; line: 1, column: 14] (through reference chain: com.ita.edu.teachua.api.models.singin.SuccessSignIn[\"status\"])",
+      "time" : {
+        "start" : 1644246704608,
+        "stop" : 1644246704608,
+        "duration" : 0
+      }
+    } ]
+  },
+  "f7e41c67a241e6a6ee80304e9855f00b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ae1ab722030708b3",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/ae1ab722030708b3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1644246706623,
+        "stop" : 1644246709505,
+        "duration" : 2882
+      }
+    } ]
+  },
+  "1eeeeabf0679383d59a88a22e6f40fee" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bfa22c80aad61e68",
+      "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1//#testresult/bfa22c80aad61e68",
+      "status" : "skipped",
+      "statusDetails" : "invalid argument\n  (Session info: chrome=97.0.4692.99)\nBuild info: version: '4.1.1', revision: 'e8fcc2cecf'\nSystem info: host: 'fv-az77-105', ip: '10.1.0.169', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '1.8.0_292'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [e821219f3f88da56466d5024a9e4ceff, get {url=}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: /tmp/.com.google.Chrome.caEcpt}, goog:chromeOptions: {debuggerAddress: localhost:33145}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:33145/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: e821219f3f88da56466d5024a9e4ceff",
+      "time" : {
+        "start" : 1644246698415,
+        "stop" : 1644246698415,
+        "duration" : 0
+      }
+    } ]
+  }
+}

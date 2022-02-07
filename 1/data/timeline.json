@@ -1,0 +1,2530 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "fv-az77-105",
+    "children" : [ {
+      "name" : "2777@fv-az77-105.TestNG-tests-2(14)",
+      "children" : [ {
+        "name" : "TUA-428",
+        "uid" : "2079c5f530fee8ea",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246720045,
+          "stop" : 1644246720045,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-483",
+        "uid" : "85f3e832c21acf44",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246706259,
+          "stop" : 1644246706259,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-210",
+        "uid" : "74197c7cef142f0",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246709567,
+          "stop" : 1644246709567,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "1cb518c82bdf4d34",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246699540,
+          "stop" : 1644246699540,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "9ebf1c774feb9616",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246703874,
+          "stop" : 1644246703876,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-237",
+        "uid" : "48bf8c065640d0ec",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246691630,
+          "stop" : 1644246691630,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "73ae759801af880c",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246690048,
+          "stop" : 1644246690048,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "909f76033941f1bb",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246694873,
+          "stop" : 1644246694879,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-177",
+        "uid" : "11105be3152f1d88",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246695987,
+          "stop" : 1644246695987,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "645a535f4ccafab4",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246720042,
+          "stop" : 1644246720043,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "95cfb00978e8c448",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246716040,
+          "stop" : 1644246716040,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-226",
+        "uid" : "e41775c3747f8188",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246725690,
+          "stop" : 1644246725690,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "1a3e1e1b9d20bf96",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246713570,
+          "stop" : 1644246713570,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-454",
+        "uid" : "d2a6fe4ca07da06f",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246701638,
+          "stop" : 1644246701639,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "a931ba9b9cdc59ef",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246716814,
+          "stop" : 1644246716814,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-226",
+        "uid" : "e44908a0c47f01b6",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246728689,
+          "stop" : 1644246728690,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-173",
+        "uid" : "bfa22c80aad61e68",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246698415,
+          "stop" : 1644246698415,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-252",
+        "uid" : "5e74078ec62f6298",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246690059,
+          "stop" : 1644246690061,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "728231232f2ee0a2",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246723278,
+          "stop" : 1644246723279,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "8c1f4fe29889ba66",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246729410,
+          "stop" : 1644246729410,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "f51f090d2aba6a66",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246724029,
+          "stop" : 1644246724029,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "6c155770c56fb661",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246710303,
+          "stop" : 1644246710303,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-226",
+        "uid" : "3f2a00a83c6302a",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246724031,
+          "stop" : 1644246724032,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "f66a7e249ad3fb8b",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246712729,
+          "stop" : 1644246712729,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-226",
+        "uid" : "b268b3937a335fa8",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246730953,
+          "stop" : 1644246730954,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-328",
+        "uid" : "74f2f79917cffac4",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246699544,
+          "stop" : 1644246699545,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "5ac19aba948c765d",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246692787,
+          "stop" : 1644246692788,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "70ea3084e6f276eb",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246707922,
+          "stop" : 1644246707922,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "c372c2b8c4f53b28",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246719309,
+          "stop" : 1644246719309,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "ba0c767ed5d052c2",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246731754,
+          "stop" : 1644246731754,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "fe4e3af96b80baaa",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246717665,
+          "stop" : 1644246717665,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-210",
+        "uid" : "5e8c2633edec46e7",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246708729,
+          "stop" : 1644246708729,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "63a9e4049dd460c",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246697089,
+          "stop" : 1644246697090,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "c257c41b13fcdca0",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246718478,
+          "stop" : 1644246718478,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-318",
+        "uid" : "642c8cd4ab7995da",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1644246680374,
+          "stop" : 1644246680374,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-210",
+        "uid" : "a3d57b0688998712",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246707925,
+          "stop" : 1644246707929,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "c21806fb0ca01706",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246711172,
+          "stop" : 1644246711172,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "42ec6b053a6bceb9",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246704653,
+          "stop" : 1644246704653,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-226",
+        "uid" : "ac90aaad8b2ece9b",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246731756,
+          "stop" : 1644246731757,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "ee44056762bb608d",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246724853,
+          "stop" : 1644246724854,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "a0617f52d7399174",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246722464,
+          "stop" : 1644246722464,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "cc84dde0bd3e9fe8",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246700570,
+          "stop" : 1644246700570,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "b8dc00ec029dfdb4",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246708726,
+          "stop" : 1644246708726,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-322",
+        "uid" : "e1d2602cccf07e29",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1644246680116,
+          "stop" : 1644246680117,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "6e91d9b24f5c79d8",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246701630,
+          "stop" : 1644246701630,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-226",
+        "uid" : "11766a5cede04baa",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246726411,
+          "stop" : 1644246726411,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-428",
+        "uid" : "eb1a36873bdc4eae",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246720854,
+          "stop" : 1644246720854,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-103",
+        "uid" : "6185c4ed035ab067",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246711987,
+          "stop" : 1644246711987,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-210",
+        "uid" : "a7fa91daf811c1ac",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246707145,
+          "stop" : 1644246707146,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "e66d1ff63086c253",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246702801,
+          "stop" : 1644246702802,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "44653824d9ca8580",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246688377,
+          "stop" : 1644246688377,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-510",
+        "uid" : "85fe12034a47b3ba",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246715202,
+          "stop" : 1644246715203,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "7e2bb9cef01a4758",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246730151,
+          "stop" : 1644246730151,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "a827b48488b27e2e",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246721700,
+          "stop" : 1644246721700,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-226",
+        "uid" : "1666d3cb17f4d9a5",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246729412,
+          "stop" : 1644246729413,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-176",
+        "uid" : "c48b5549494bc30d",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246697095,
+          "stop" : 1644246697096,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-321",
+        "uid" : "6fca6b71683139b7",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1644246680391,
+          "stop" : 1644246680391,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-160",
+        "uid" : "8850fae86f0931e2",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246692792,
+          "stop" : 1644246692792,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-226",
+        "uid" : "df4cd0ef024f413",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246724856,
+          "stop" : 1644246724856,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "99e9e7063acf3239",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246728687,
+          "stop" : 1644246728687,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-428",
+        "uid" : "1ade7529006bc0ae",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246717667,
+          "stop" : 1644246717667,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-226",
+        "uid" : "288496aa663debd5",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246727960,
+          "stop" : 1644246727960,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-428",
+        "uid" : "93904caadbe68255",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246719312,
+          "stop" : 1644246719312,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "746a66ff833dd28",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246725688,
+          "stop" : 1644246725688,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "7686d86ab1023d1f",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246698413,
+          "stop" : 1644246698414,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-359",
+        "uid" : "8390f92a5beef5e9",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246702809,
+          "stop" : 1644246702809,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-428",
+        "uid" : "58d53529b8931f9e",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246718480,
+          "stop" : 1644246718480,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-226",
+        "uid" : "4be87cdffdfb2c3",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246723280,
+          "stop" : 1644246723281,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "ecf2b2ff02a06866",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246715200,
+          "stop" : 1644246715201,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-428",
+        "uid" : "ddea3411c572f79",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246716826,
+          "stop" : 1644246716826,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-343",
+        "uid" : "d69dc2cc00b65b0f",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246700576,
+          "stop" : 1644246700576,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-103",
+        "uid" : "6810cfe5d2d3ad01",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246713573,
+          "stop" : 1644246713573,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-103",
+        "uid" : "a7868bbfd8bd2878",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246712731,
+          "stop" : 1644246712732,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "aa862a282dd4cfe7",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246709557,
+          "stop" : 1644246709557,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "11df976724aef35b",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246720848,
+          "stop" : 1644246720848,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-159",
+        "uid" : "e4d0f4219e4b3a37",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246693885,
+          "stop" : 1644246693892,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-103",
+        "uid" : "4c924fef870d9399",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246711175,
+          "stop" : 1644246711175,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "75f354a583d8d494",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246711985,
+          "stop" : 1644246711985,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "97385370e5b390c0",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246727958,
+          "stop" : 1644246727958,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "bfb790ddde8b1448",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246707140,
+          "stop" : 1644246707140,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "dbac86bfc18f4b0d",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246726410,
+          "stop" : 1644246726410,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "dfe584e08b062e08",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246727206,
+          "stop" : 1644246727207,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "62cfcfbecdde7460",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246706255,
+          "stop" : 1644246706255,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-178",
+        "uid" : "4297ba5521e8b926",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246705489,
+          "stop" : 1644246705489,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "b2c21ed5c617759e",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246705487,
+          "stop" : 1644246705487,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "6de8ccefb83bc8e8",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246730952,
+          "stop" : 1644246730952,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-226",
+        "uid" : "e899854925d8be5e",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246721702,
+          "stop" : 1644246721702,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "578ecaebe0c5af81",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246695985,
+          "stop" : 1644246695985,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-319",
+        "uid" : "3243b8a3b68cdf6c",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1644246680377,
+          "stop" : 1644246680389,
+          "duration" : 12
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "ad9c98a1f3155537",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246691627,
+          "stop" : 1644246691627,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-214",
+        "uid" : "de1d76c73b0c21b4",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246704655,
+          "stop" : 1644246704657,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "b7aa7d0d999d26d4",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246693875,
+          "stop" : 1644246693881,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-509",
+        "uid" : "15dbf917558dd8ea",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246716042,
+          "stop" : 1644246716042,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-172",
+        "uid" : "a3262002bef56a49",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246694884,
+          "stop" : 1644246694884,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeMethod",
+        "uid" : "b0d11aaa525678ba",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246714355,
+          "stop" : 1644246714355,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-224",
+        "uid" : "92b7ec16e4cc475f",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246714358,
+          "stop" : 1644246714358,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-158",
+        "uid" : "e79552e0c77c990",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246703879,
+          "stop" : 1644246703879,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-513",
+        "uid" : "89eeed33208f0fc2",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246710306,
+          "stop" : 1644246710306,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-226",
+        "uid" : "a29abd099c426e17",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246722466,
+          "stop" : 1644246722466,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-226",
+        "uid" : "ca7ad0b293928e8e",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246730153,
+          "stop" : 1644246730153,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-226",
+        "uid" : "aa2ef39f74bc42be",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246727208,
+          "stop" : 1644246727208,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-356",
+        "uid" : "c8ff396c925929f5",
+        "parentUid" : "bcb87987e793bc0a15a8c03f8cfca3cb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246688403,
+          "stop" : 1644246688411,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bcb87987e793bc0a15a8c03f8cfca3cb"
+    }, {
+      "name" : "2777@fv-az77-105.TestNG-tests-1(13)",
+      "children" : [ {
+        "name" : "Example of BDD suite",
+        "uid" : "a18ef7734413ad1a",
+        "parentUid" : "42f117caf9aca685a4bac183e211788b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246700241,
+          "stop" : 1644246701204,
+          "duration" : 963
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "\"Restore password with invalid email test\"", "\"Optional[Verify if user can change the password entering incorrect email]\"" ]
+      }, {
+        "name" : "Runs Cucumber Scenarios",
+        "uid" : "8cd8b4a3a52ffcd6",
+        "parentUid" : "42f117caf9aca685a4bac183e211788b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246692784,
+          "stop" : 1644246693884,
+          "duration" : 1100
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "\"Restore password with invalid email test\"", "\"Optional[Verify if user can change the password entering incorrect email]\"" ]
+      }, {
+        "name" : "Example of BDD suite",
+        "uid" : "9c7f437b5a9f030b",
+        "parentUid" : "42f117caf9aca685a4bac183e211788b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246698231,
+          "stop" : 1644246699175,
+          "duration" : 944
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "\"Restore password with invalid email test\"", "\"Optional[Verify if user can change the password entering incorrect email]\"" ]
+      }, {
+        "name" : "Runs Cucumber Scenarios",
+        "uid" : "e6a28e35c4c78c7f",
+        "parentUid" : "42f117caf9aca685a4bac183e211788b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246691640,
+          "stop" : 1644246692781,
+          "duration" : 1141
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "\"Restore password with invalid email test\"", "\"Optional[Verify if user can change the password entering incorrect email]\"" ]
+      }, {
+        "name" : "Example of BDD suite",
+        "uid" : "818fde34bdadfb1d",
+        "parentUid" : "42f117caf9aca685a4bac183e211788b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246697191,
+          "stop" : 1644246698221,
+          "duration" : 1030
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "\"This test case verifies that a 'Керівник' cannot add a location to the list of locations after leaving all mandatory and optional fields empty.\"", "\"Optional[Verify that a 'Керівник' can add a location of a club]\"" ]
+      }, {
+        "name" : "Example of BDD suite",
+        "uid" : "d6453de70de8ed64",
+        "parentUid" : "42f117caf9aca685a4bac183e211788b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246701209,
+          "stop" : 1644246702232,
+          "duration" : 1023
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "\"Verify that the manager can change it's role to 'user' and then back to 'manager'\"", "\"Optional[[Edit profile] The user or manager can change it's role]\"" ]
+      }, {
+        "name" : "Runs Cucumber Scenarios",
+        "uid" : "a96894e1725605cf",
+        "parentUid" : "42f117caf9aca685a4bac183e211788b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246693886,
+          "stop" : 1644246695024,
+          "duration" : 1138
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "\"Verify that the manager can change it's role to 'user' and then back to 'manager'\"", "\"Optional[[Edit profile] The user or manager can change it's role]\"" ]
+      }, {
+        "name" : "Example of BDD suite",
+        "uid" : "e6cc8352b85cbfb0",
+        "parentUid" : "42f117caf9aca685a4bac183e211788b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246699182,
+          "stop" : 1644246700232,
+          "duration" : 1050
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "\"Restore password with invalid email test\"", "\"Optional[Verify if user can change the password entering incorrect email]\"" ]
+      }, {
+        "name" : "Runs Cucumber Scenarios",
+        "uid" : "fc25652d78016e56",
+        "parentUid" : "42f117caf9aca685a4bac183e211788b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246681501,
+          "stop" : 1644246688504,
+          "duration" : 7003
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "\"This test case verifies that a 'Керівник' can add location to the list of locations after filling in all mandatory and all optional fields with valid data\"", "\"Optional[Verify that a 'Керівник' can add a location to the list of locations]\"" ]
+      }, {
+        "name" : "Runs Cucumber Scenarios",
+        "uid" : "f7cbf67c4cc8fd4a",
+        "parentUid" : "42f117caf9aca685a4bac183e211788b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246695036,
+          "stop" : 1644246696042,
+          "duration" : 1006
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "\"This test case verify that error messages are shown and 'Зберегти зміни' button becomes disabled while entering invalid data for the 'Телефон' field\"", "\"Optional[Verify that error messages are shown and 'Зберегти зміни' button becomes disabled]\"" ]
+      }, {
+        "name" : "Example of BDD suite",
+        "uid" : "252be78f3d7f56f8",
+        "parentUid" : "42f117caf9aca685a4bac183e211788b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246696047,
+          "stop" : 1644246697186,
+          "duration" : 1139
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "\"This test case verifies that a 'Керівник' can add location to the list of locations after filling in all mandatory and all optional fields with valid data\"", "\"Optional[Verify that a 'Керівник' can add a location to the list of locations]\"" ]
+      }, {
+        "name" : "Runs Cucumber Scenarios",
+        "uid" : "706a9435602fab5d",
+        "parentUid" : "42f117caf9aca685a4bac183e211788b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246690035,
+          "stop" : 1644246691638,
+          "duration" : 1603
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "\"Restore password with invalid email test\"", "\"Optional[Verify if user can change the password entering incorrect email]\"" ]
+      }, {
+        "name" : "Runs Cucumber Scenarios",
+        "uid" : "ee3f2463b0207644",
+        "parentUid" : "42f117caf9aca685a4bac183e211788b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246688565,
+          "stop" : 1644246690014,
+          "duration" : 1449
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "\"This test case verifies that a 'Керівник' cannot add a location to the list of locations after leaving all mandatory and optional fields empty.\"", "\"Optional[Verify that a 'Керівник' can add a location of a club]\"" ]
+      }, {
+        "name" : "Example of BDD suite",
+        "uid" : "16f1375db9312440",
+        "parentUid" : "42f117caf9aca685a4bac183e211788b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246702234,
+          "stop" : 1644246703458,
+          "duration" : 1224
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "\"This test case verify that error messages are shown and 'Зберегти зміни' button becomes disabled while entering invalid data for the 'Телефон' field\"", "\"Optional[Verify that error messages are shown and 'Зберегти зміни' button becomes disabled]\"" ]
+      } ],
+      "uid" : "42f117caf9aca685a4bac183e211788b"
+    }, {
+      "name" : "2777@fv-az77-105.TestNG-tests-3(15)",
+      "children" : [ {
+        "name" : "getListOfDistricts",
+        "uid" : "5b75fcaece4bf13",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246705593,
+          "stop" : 1644246705593,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-419",
+        "uid" : "784706d61f3ab2d9",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "failed",
+        "time" : {
+          "start" : 1644246720346,
+          "stop" : 1644246721317,
+          "duration" : 971
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeClass",
+        "uid" : "b599eded1f234688",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246687035,
+          "stop" : 1644246687035,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-376",
+        "uid" : "9695d4f8c997c03e",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246699484,
+          "stop" : 1644246699484,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "createDistrict",
+        "uid" : "9d3ee43a5ad9e298",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246705591,
+          "stop" : 1644246705592,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Get contacts",
+        "uid" : "2c74547914c33352",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246691275,
+          "stop" : 1644246691280,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Get contact by ID",
+        "uid" : "110d74cf9952289c",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246691244,
+          "stop" : 1644246691244,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[API category] Change category by ID",
+        "uid" : "65dde68bca63d506",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246735194,
+          "stop" : 1644246735194,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeClass",
+        "uid" : "4033d29b010fc1c2",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246704601,
+          "stop" : 1644246704601,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[API category] Get category by ID",
+        "uid" : "a2f67fba831bfb33",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246735196,
+          "stop" : 1644246735197,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "get list of centers by id",
+        "uid" : "b8167508c95d6e24",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246704610,
+          "stop" : 1644246704611,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "get list of center",
+        "uid" : "55ed9a257dfe9c21",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246704608,
+          "stop" : 1644246704608,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-501",
+        "uid" : "223007ae339072bd",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246701558,
+          "stop" : 1644246701560,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA",
+        "uid" : "165498f18b7b6293",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246734216,
+          "stop" : 1644246734217,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[API category] Get list of all categories",
+        "uid" : "f236084f9a27b1c9",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246735198,
+          "stop" : 1644246735198,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeClass",
+        "uid" : "be40233880bf1ecb",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246700488,
+          "stop" : 1644246700488,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA",
+        "uid" : "428cba87c3ac18aa",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246700502,
+          "stop" : 1644246700502,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-416",
+        "uid" : "f19c527a49096571",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246698438,
+          "stop" : 1644246698439,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeClass",
+        "uid" : "34e49830390f057a",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246691233,
+          "stop" : 1644246691236,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-370",
+        "uid" : "223dcb3294613dd6",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246699488,
+          "stop" : 1644246699488,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-408",
+        "uid" : "cdae6ab7707a866b",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246698424,
+          "stop" : 1644246698426,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "deleted center",
+        "uid" : "48363c92bbcd784b",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246704605,
+          "stop" : 1644246704605,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[API category] Create new category and delete it",
+        "uid" : "f3e11518d72954d2",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246735195,
+          "stop" : 1644246735196,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Create, change and delete contact by ID",
+        "uid" : "149b034d15dc1262",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246691242,
+          "stop" : 1644246691242,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA",
+        "uid" : "f01c950d2452a38b",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246734218,
+          "stop" : 1644246734218,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-457",
+        "uid" : "5b1ac35de9d1eee2",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246730764,
+          "stop" : 1644246732257,
+          "duration" : 1493
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA",
+        "uid" : "1bbe26628fe3e12",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246699489,
+          "stop" : 1644246699490,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Get About Us by ID",
+        "uid" : "d52b7e89461b3e8e",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246688125,
+          "stop" : 1644246688125,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-420",
+        "uid" : "a5380c9707dc9b30",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "passed",
+        "time" : {
+          "start" : 1644246705595,
+          "stop" : 1644246706617,
+          "duration" : 1022
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Get station by name",
+        "uid" : "7c1421e2c274a463",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246687065,
+          "stop" : 1644246687076,
+          "duration" : 11
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-457",
+        "uid" : "7d34dbd2677305af",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246729764,
+          "stop" : 1644246730762,
+          "duration" : 998
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeClass",
+        "uid" : "c93582523a2ef07f",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246702580,
+          "stop" : 1644246702580,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-498",
+        "uid" : "8f84c6037f96888c",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246701545,
+          "stop" : 1644246701545,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-411",
+        "uid" : "6e5e74fec5ef9e1a",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246698453,
+          "stop" : 1644246698454,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-419",
+        "uid" : "e1a917fb2ede940a",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246719356,
+          "stop" : 1644246720344,
+          "duration" : 988
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Get station by name",
+        "uid" : "58ae947ac2d2cdb7",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246687050,
+          "stop" : 1644246687051,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "resetPasswordTest",
+        "uid" : "a910df382860b8e8",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "passed",
+        "time" : {
+          "start" : 1644246735201,
+          "stop" : 1644246736780,
+          "duration" : 1579
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-415",
+        "uid" : "4e6fe4b91ac81ad7",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246698441,
+          "stop" : 1644246698441,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-406",
+        "uid" : "f63184fa61695613",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "passed",
+        "time" : {
+          "start" : 1644246688140,
+          "stop" : 1644246690212,
+          "duration" : 2072
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "change center",
+        "uid" : "9d7d6d253891ba11",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246704603,
+          "stop" : 1644246704603,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-419",
+        "uid" : "a8484434cd64326f",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246718325,
+          "stop" : 1644246719340,
+          "duration" : 1015
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeClass",
+        "uid" : "8756571d2cd98dde",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246735193,
+          "stop" : 1644246735193,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-499",
+        "uid" : "c7549a027b266e63",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "passed",
+        "time" : {
+          "start" : 1644246717214,
+          "stop" : 1644246718319,
+          "duration" : 1105
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Get stations by name of the city",
+        "uid" : "86cb2c058ad78a76",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246687057,
+          "stop" : 1644246687060,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeClass",
+        "uid" : "2889f1952148fa15",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246699480,
+          "stop" : 1644246699480,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeClass",
+        "uid" : "1863e620ab54cb6a",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246701519,
+          "stop" : 1644246701519,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-430/431/433/434",
+        "uid" : "fad88df0ad3bec5a",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246702596,
+          "stop" : 1644246702596,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[API category] Get list of all categories search with pagination",
+        "uid" : "864af328e841816f",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246735199,
+          "stop" : 1644246735199,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-429/432/435",
+        "uid" : "2547afd933b0bae5",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246702593,
+          "stop" : 1644246702594,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[API banner] Add banner successfully and then delete it",
+        "uid" : "1905448eda60f3c1",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246733239,
+          "stop" : 1644246733240,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeClass",
+        "uid" : "4774a114b27e641e",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246705590,
+          "stop" : 1644246705590,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[API banner] add new banner with wrong path to picture",
+        "uid" : "a01afe4ea84a4a17",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246733241,
+          "stop" : 1644246733241,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-377",
+        "uid" : "be45f6ff7e00b338",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "passed",
+        "time" : {
+          "start" : 1644246721321,
+          "stop" : 1644246728772,
+          "duration" : 7451
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "get center by id",
+        "uid" : "aa880d21ee8c53fe",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246704606,
+          "stop" : 1644246704606,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeClass",
+        "uid" : "2994f4f591e16842",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246734215,
+          "stop" : 1644246734215,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-371/372/463",
+        "uid" : "4333f077ae2f3036",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246701540,
+          "stop" : 1644246701542,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA",
+        "uid" : "ea73f9cb0a072aec",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246700494,
+          "stop" : 1644246700494,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-375",
+        "uid" : "8915ab80f22d4f08",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246698455,
+          "stop" : 1644246698455,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-405",
+        "uid" : "b2e14e0537266c08",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246701531,
+          "stop" : 1644246701537,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[API admin role] Get role by ID",
+        "uid" : "8157004a0d23b90f",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246703595,
+          "stop" : 1644246703595,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-423",
+        "uid" : "8a7e30841dac968a",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "passed",
+        "time" : {
+          "start" : 1644246709507,
+          "stop" : 1644246717205,
+          "duration" : 7698
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-418",
+        "uid" : "ae1ab722030708b3",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "passed",
+        "time" : {
+          "start" : 1644246706623,
+          "stop" : 1644246709505,
+          "duration" : 2882
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-457",
+        "uid" : "77950aa9826c50e5",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246728776,
+          "stop" : 1644246729760,
+          "duration" : 984
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Create, change and delete About Us by ID",
+        "uid" : "6a81691ed2d5e4f6",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246688123,
+          "stop" : 1644246688123,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "createAndActivateUser",
+        "uid" : "64508d3dd6d2999d",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246698422,
+          "stop" : 1644246698422,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-409",
+        "uid" : "9252a501a6a94f14",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246701522,
+          "stop" : 1644246701525,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeClass",
+        "uid" : "647610bda2deff0a",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246733238,
+          "stop" : 1644246733238,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA",
+        "uid" : "b728d50706723489",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246700498,
+          "stop" : 1644246700498,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[API admin role] Create new role and delete it",
+        "uid" : "42c18799396b6acc",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246703586,
+          "stop" : 1644246703586,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[API banner] Get list of all banners",
+        "uid" : "c58bddacb69d8677",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246733244,
+          "stop" : 1644246733244,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Get all About Us by ID",
+        "uid" : "be9b002536116028",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246688128,
+          "stop" : 1644246688136,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[API banner] Get banner by ID",
+        "uid" : "b598f66fe6fc3125",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246733242,
+          "stop" : 1644246733242,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeClass",
+        "uid" : "3a2e90bab504bf4c",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246688110,
+          "stop" : 1644246688110,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-421",
+        "uid" : "4986b35a0030704d",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246698452,
+          "stop" : 1644246698452,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "beforeClass",
+        "uid" : "2f5e5ea871906b71",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644246703583,
+          "stop" : 1644246703583,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[API admin role] Get list of all roles",
+        "uid" : "7d5e6b4c8bff7114",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246703593,
+          "stop" : 1644246703594,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TUA-502",
+        "uid" : "cddd396015e3088e",
+        "parentUid" : "3e680ffcc4d8c0305e08855ee948e962",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1644246701555,
+          "stop" : 1644246701555,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3e680ffcc4d8c0305e08855ee948e962"
+    } ],
+    "uid" : "0b9d23b1627580234173a4c5b5d6e409"
+  } ],
+  "name" : "timeline"
+}

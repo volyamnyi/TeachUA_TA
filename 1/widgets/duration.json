@@ -1,0 +1,1211 @@
+[ {
+  "uid" : "f3e11518d72954d2",
+  "name" : "[API category] Create new category and delete it",
+  "time" : {
+    "start" : 1644246735195,
+    "stop" : 1644246735196,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "16f1375db9312440",
+  "name" : "Example of BDD suite",
+  "time" : {
+    "start" : 1644246702234,
+    "stop" : 1644246703458,
+    "duration" : 1224
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d6453de70de8ed64",
+  "name" : "Example of BDD suite",
+  "time" : {
+    "start" : 1644246701209,
+    "stop" : 1644246702232,
+    "duration" : 1023
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "62cfcfbecdde7460",
+  "name" : "beforeMethod",
+  "time" : {
+    "start" : 1644246706255,
+    "stop" : 1644246706255,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "4986b35a0030704d",
+  "name" : "TUA-421",
+  "time" : {
+    "start" : 1644246698452,
+    "stop" : 1644246698452,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "bfa22c80aad61e68",
+  "name" : "TUA-173",
+  "time" : {
+    "start" : 1644246698415,
+    "stop" : 1644246698415,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "critical"
+}, {
+  "uid" : "48363c92bbcd784b",
+  "name" : "deleted center",
+  "time" : {
+    "start" : 1644246704605,
+    "stop" : 1644246704605,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "3243b8a3b68cdf6c",
+  "name" : "TUA-319",
+  "time" : {
+    "start" : 1644246680377,
+    "stop" : 1644246680389,
+    "duration" : 12
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+}, {
+  "uid" : "ee3f2463b0207644",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1644246688565,
+    "stop" : 1644246690014,
+    "duration" : 1449
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "9252a501a6a94f14",
+  "name" : "TUA-409",
+  "time" : {
+    "start" : 1644246701522,
+    "stop" : 1644246701525,
+    "duration" : 3
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "42c18799396b6acc",
+  "name" : "[API admin role] Create new role and delete it",
+  "time" : {
+    "start" : 1644246703586,
+    "stop" : 1644246703586,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "5b1ac35de9d1eee2",
+  "name" : "TUA-457",
+  "time" : {
+    "start" : 1644246730764,
+    "stop" : 1644246732257,
+    "duration" : 1493
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "6fca6b71683139b7",
+  "name" : "TUA-321",
+  "time" : {
+    "start" : 1644246680391,
+    "stop" : 1644246680391,
+    "duration" : 0
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+}, {
+  "uid" : "74f2f79917cffac4",
+  "name" : "TUA-328",
+  "time" : {
+    "start" : 1644246699544,
+    "stop" : 1644246699545,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "ae1ab722030708b3",
+  "name" : "TUA-418",
+  "time" : {
+    "start" : 1644246706623,
+    "stop" : 1644246709505,
+    "duration" : 2882
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "647610bda2deff0a",
+  "name" : "beforeClass",
+  "time" : {
+    "start" : 1644246733238,
+    "stop" : 1644246733238,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "5b75fcaece4bf13",
+  "name" : "getListOfDistricts",
+  "time" : {
+    "start" : 1644246705593,
+    "stop" : 1644246705593,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "c8ff396c925929f5",
+  "name" : "TUA-356",
+  "time" : {
+    "start" : 1644246688403,
+    "stop" : 1644246688411,
+    "duration" : 8
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "9d7d6d253891ba11",
+  "name" : "change center",
+  "time" : {
+    "start" : 1644246704603,
+    "stop" : 1644246704603,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "d2a6fe4ca07da06f",
+  "name" : "TUA-454",
+  "time" : {
+    "start" : 1644246701638,
+    "stop" : 1644246701639,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "74197c7cef142f0",
+  "name" : "TUA-210",
+  "time" : {
+    "start" : 1644246709567,
+    "stop" : 1644246709567,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "4033d29b010fc1c2",
+  "name" : "beforeClass",
+  "time" : {
+    "start" : 1644246704601,
+    "stop" : 1644246704601,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a5380c9707dc9b30",
+  "name" : "TUA-420",
+  "time" : {
+    "start" : 1644246705595,
+    "stop" : 1644246706617,
+    "duration" : 1022
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "be45f6ff7e00b338",
+  "name" : "TUA-377",
+  "time" : {
+    "start" : 1644246721321,
+    "stop" : 1644246728772,
+    "duration" : 7451
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f7cbf67c4cc8fd4a",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1644246695036,
+    "stop" : 1644246696042,
+    "duration" : 1006
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "64508d3dd6d2999d",
+  "name" : "createAndActivateUser",
+  "time" : {
+    "start" : 1644246698422,
+    "stop" : 1644246698422,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "9d3ee43a5ad9e298",
+  "name" : "createDistrict",
+  "time" : {
+    "start" : 1644246705591,
+    "stop" : 1644246705592,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "b728d50706723489",
+  "name" : "TUA",
+  "time" : {
+    "start" : 1644246700498,
+    "stop" : 1644246700498,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "95cfb00978e8c448",
+  "name" : "beforeMethod",
+  "time" : {
+    "start" : 1644246716040,
+    "stop" : 1644246716040,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "86cb2c058ad78a76",
+  "name" : "Get stations by name of the city",
+  "time" : {
+    "start" : 1644246687057,
+    "stop" : 1644246687060,
+    "duration" : 3
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "ea73f9cb0a072aec",
+  "name" : "TUA",
+  "time" : {
+    "start" : 1644246700494,
+    "stop" : 1644246700494,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "864af328e841816f",
+  "name" : "[API category] Get list of all categories search with pagination",
+  "time" : {
+    "start" : 1644246735199,
+    "stop" : 1644246735199,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "c93582523a2ef07f",
+  "name" : "beforeClass",
+  "time" : {
+    "start" : 1644246702580,
+    "stop" : 1644246702580,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a3262002bef56a49",
+  "name" : "TUA-172",
+  "time" : {
+    "start" : 1644246694884,
+    "stop" : 1644246694884,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "critical"
+}, {
+  "uid" : "cddd396015e3088e",
+  "name" : "TUA-502",
+  "time" : {
+    "start" : 1644246701555,
+    "stop" : 1644246701555,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "15dbf917558dd8ea",
+  "name" : "TUA-509",
+  "time" : {
+    "start" : 1644246716042,
+    "stop" : 1644246716042,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "1863e620ab54cb6a",
+  "name" : "beforeClass",
+  "time" : {
+    "start" : 1644246701519,
+    "stop" : 1644246701519,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "4774a114b27e641e",
+  "name" : "beforeClass",
+  "time" : {
+    "start" : 1644246705590,
+    "stop" : 1644246705590,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2547afd933b0bae5",
+  "name" : "TUA-429/432/435",
+  "time" : {
+    "start" : 1644246702593,
+    "stop" : 1644246702594,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "110d74cf9952289c",
+  "name" : "Get contact by ID",
+  "time" : {
+    "start" : 1644246691244,
+    "stop" : 1644246691244,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "4c924fef870d9399",
+  "name" : "TUA-103",
+  "time" : {
+    "start" : 1644246711175,
+    "stop" : 1644246711175,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "252be78f3d7f56f8",
+  "name" : "Example of BDD suite",
+  "time" : {
+    "start" : 1644246696047,
+    "stop" : 1644246697186,
+    "duration" : 1139
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a96894e1725605cf",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1644246693886,
+    "stop" : 1644246695024,
+    "duration" : 1138
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "8cd8b4a3a52ffcd6",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1644246692784,
+    "stop" : 1644246693884,
+    "duration" : 1100
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ac90aaad8b2ece9b",
+  "name" : "TUA-226",
+  "time" : {
+    "start" : 1644246731756,
+    "stop" : 1644246731757,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "428cba87c3ac18aa",
+  "name" : "TUA",
+  "time" : {
+    "start" : 1644246700502,
+    "stop" : 1644246700502,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "223dcb3294613dd6",
+  "name" : "TUA-370",
+  "time" : {
+    "start" : 1644246699488,
+    "stop" : 1644246699488,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "9695d4f8c997c03e",
+  "name" : "TUA-376",
+  "time" : {
+    "start" : 1644246699484,
+    "stop" : 1644246699484,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "8915ab80f22d4f08",
+  "name" : "TUA-375",
+  "time" : {
+    "start" : 1644246698455,
+    "stop" : 1644246698455,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "1905448eda60f3c1",
+  "name" : "[API banner] Add banner successfully and then delete it",
+  "time" : {
+    "start" : 1644246733239,
+    "stop" : 1644246733240,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "a18ef7734413ad1a",
+  "name" : "Example of BDD suite",
+  "time" : {
+    "start" : 1644246700241,
+    "stop" : 1644246701204,
+    "duration" : 963
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2994f4f591e16842",
+  "name" : "beforeClass",
+  "time" : {
+    "start" : 1644246734215,
+    "stop" : 1644246734215,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "8157004a0d23b90f",
+  "name" : "[API admin role] Get role by ID",
+  "time" : {
+    "start" : 1644246703595,
+    "stop" : 1644246703595,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "f19c527a49096571",
+  "name" : "TUA-416",
+  "time" : {
+    "start" : 1644246698438,
+    "stop" : 1644246698439,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "cdae6ab7707a866b",
+  "name" : "TUA-408",
+  "time" : {
+    "start" : 1644246698424,
+    "stop" : 1644246698426,
+    "duration" : 2
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "11105be3152f1d88",
+  "name" : "TUA-177",
+  "time" : {
+    "start" : 1644246695987,
+    "stop" : 1644246695987,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "critical"
+}, {
+  "uid" : "c48b5549494bc30d",
+  "name" : "TUA-176",
+  "time" : {
+    "start" : 1644246697095,
+    "stop" : 1644246697096,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "critical"
+}, {
+  "uid" : "e79552e0c77c990",
+  "name" : "TUA-158",
+  "time" : {
+    "start" : 1644246703879,
+    "stop" : 1644246703879,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "58d53529b8931f9e",
+  "name" : "TUA-428",
+  "time" : {
+    "start" : 1644246718480,
+    "stop" : 1644246718480,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "6185c4ed035ab067",
+  "name" : "TUA-103",
+  "time" : {
+    "start" : 1644246711987,
+    "stop" : 1644246711987,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "85fe12034a47b3ba",
+  "name" : "TUA-510",
+  "time" : {
+    "start" : 1644246715202,
+    "stop" : 1644246715203,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "89eeed33208f0fc2",
+  "name" : "TUA-513",
+  "time" : {
+    "start" : 1644246710306,
+    "stop" : 1644246710306,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "critical"
+}, {
+  "uid" : "be9b002536116028",
+  "name" : "Get all About Us by ID",
+  "time" : {
+    "start" : 1644246688128,
+    "stop" : 1644246688136,
+    "duration" : 8
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "6a81691ed2d5e4f6",
+  "name" : "Create, change and delete About Us by ID",
+  "time" : {
+    "start" : 1644246688123,
+    "stop" : 1644246688123,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "6e5e74fec5ef9e1a",
+  "name" : "TUA-411",
+  "time" : {
+    "start" : 1644246698453,
+    "stop" : 1644246698454,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "58ae947ac2d2cdb7",
+  "name" : "Get station by name",
+  "time" : {
+    "start" : 1644246687050,
+    "stop" : 1644246687051,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "8a7e30841dac968a",
+  "name" : "TUA-423",
+  "time" : {
+    "start" : 1644246709507,
+    "stop" : 1644246717205,
+    "duration" : 7698
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "34e49830390f057a",
+  "name" : "beforeClass",
+  "time" : {
+    "start" : 1644246691233,
+    "stop" : 1644246691236,
+    "duration" : 3
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a01afe4ea84a4a17",
+  "name" : "[API banner] add new banner with wrong path to picture",
+  "time" : {
+    "start" : 1644246733241,
+    "stop" : 1644246733241,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "2c74547914c33352",
+  "name" : "Get contacts",
+  "time" : {
+    "start" : 1644246691275,
+    "stop" : 1644246691280,
+    "duration" : 5
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "6810cfe5d2d3ad01",
+  "name" : "TUA-103",
+  "time" : {
+    "start" : 1644246713573,
+    "stop" : 1644246713573,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "d52b7e89461b3e8e",
+  "name" : "Get About Us by ID",
+  "time" : {
+    "start" : 1644246688125,
+    "stop" : 1644246688125,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "4333f077ae2f3036",
+  "name" : "TUA-371/372/463",
+  "time" : {
+    "start" : 1644246701540,
+    "stop" : 1644246701542,
+    "duration" : 2
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "f01c950d2452a38b",
+  "name" : "TUA",
+  "time" : {
+    "start" : 1644246734218,
+    "stop" : 1644246734218,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "3a2e90bab504bf4c",
+  "name" : "beforeClass",
+  "time" : {
+    "start" : 1644246688110,
+    "stop" : 1644246688110,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "8390f92a5beef5e9",
+  "name" : "TUA-359",
+  "time" : {
+    "start" : 1644246702809,
+    "stop" : 1644246702809,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "2889f1952148fa15",
+  "name" : "beforeClass",
+  "time" : {
+    "start" : 1644246699480,
+    "stop" : 1644246699480,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "be40233880bf1ecb",
+  "name" : "beforeClass",
+  "time" : {
+    "start" : 1644246700488,
+    "stop" : 1644246700488,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "818fde34bdadfb1d",
+  "name" : "Example of BDD suite",
+  "time" : {
+    "start" : 1644246697191,
+    "stop" : 1644246698221,
+    "duration" : 1030
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "fc25652d78016e56",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1644246681501,
+    "stop" : 1644246688504,
+    "duration" : 7003
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "85f3e832c21acf44",
+  "name" : "TUA-483",
+  "time" : {
+    "start" : 1644246706259,
+    "stop" : 1644246706259,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "642c8cd4ab7995da",
+  "name" : "TUA-318",
+  "time" : {
+    "start" : 1644246680374,
+    "stop" : 1644246680374,
+    "duration" : 0
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+}, {
+  "uid" : "b2e14e0537266c08",
+  "name" : "TUA-405",
+  "time" : {
+    "start" : 1644246701531,
+    "stop" : 1644246701537,
+    "duration" : 6
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "b599eded1f234688",
+  "name" : "beforeClass",
+  "time" : {
+    "start" : 1644246687035,
+    "stop" : 1644246687035,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "fad88df0ad3bec5a",
+  "name" : "TUA-430/431/433/434",
+  "time" : {
+    "start" : 1644246702596,
+    "stop" : 1644246702596,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "a7868bbfd8bd2878",
+  "name" : "TUA-103",
+  "time" : {
+    "start" : 1644246712731,
+    "stop" : 1644246712732,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "11766a5cede04baa",
+  "name" : "TUA-226",
+  "time" : {
+    "start" : 1644246726411,
+    "stop" : 1644246726411,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "1bbe26628fe3e12",
+  "name" : "TUA",
+  "time" : {
+    "start" : 1644246699489,
+    "stop" : 1644246699490,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "d69dc2cc00b65b0f",
+  "name" : "TUA-343",
+  "time" : {
+    "start" : 1644246700576,
+    "stop" : 1644246700576,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "ba0c767ed5d052c2",
+  "name" : "beforeMethod",
+  "time" : {
+    "start" : 1644246731754,
+    "stop" : 1644246731754,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e1d2602cccf07e29",
+  "name" : "TUA-322",
+  "time" : {
+    "start" : 1644246680116,
+    "stop" : 1644246680117,
+    "duration" : 1
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+}, {
+  "uid" : "eb1a36873bdc4eae",
+  "name" : "TUA-428",
+  "time" : {
+    "start" : 1644246720854,
+    "stop" : 1644246720854,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "223007ae339072bd",
+  "name" : "TUA-501",
+  "time" : {
+    "start" : 1644246701558,
+    "stop" : 1644246701560,
+    "duration" : 2
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "7c1421e2c274a463",
+  "name" : "Get station by name",
+  "time" : {
+    "start" : 1644246687065,
+    "stop" : 1644246687076,
+    "duration" : 11
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "c58bddacb69d8677",
+  "name" : "[API banner] Get list of all banners",
+  "time" : {
+    "start" : 1644246733244,
+    "stop" : 1644246733244,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "a2f67fba831bfb33",
+  "name" : "[API category] Get category by ID",
+  "time" : {
+    "start" : 1644246735196,
+    "stop" : 1644246735197,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "b8167508c95d6e24",
+  "name" : "get list of centers by id",
+  "time" : {
+    "start" : 1644246704610,
+    "stop" : 1644246704611,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "92b7ec16e4cc475f",
+  "name" : "TUA-224",
+  "time" : {
+    "start" : 1644246714358,
+    "stop" : 1644246714358,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "165498f18b7b6293",
+  "name" : "TUA",
+  "time" : {
+    "start" : 1644246734216,
+    "stop" : 1644246734217,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "f236084f9a27b1c9",
+  "name" : "[API category] Get list of all categories",
+  "time" : {
+    "start" : 1644246735198,
+    "stop" : 1644246735198,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "4297ba5521e8b926",
+  "name" : "TUA-178",
+  "time" : {
+    "start" : 1644246705489,
+    "stop" : 1644246705489,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "2f5e5ea871906b71",
+  "name" : "beforeClass",
+  "time" : {
+    "start" : 1644246703583,
+    "stop" : 1644246703583,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c7549a027b266e63",
+  "name" : "TUA-499",
+  "time" : {
+    "start" : 1644246717214,
+    "stop" : 1644246718319,
+    "duration" : 1105
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8f84c6037f96888c",
+  "name" : "TUA-498",
+  "time" : {
+    "start" : 1644246701545,
+    "stop" : 1644246701545,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "5e74078ec62f6298",
+  "name" : "TUA-252",
+  "time" : {
+    "start" : 1644246690059,
+    "stop" : 1644246690061,
+    "duration" : 2
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "4e6fe4b91ac81ad7",
+  "name" : "TUA-415",
+  "time" : {
+    "start" : 1644246698441,
+    "stop" : 1644246698441,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "aa880d21ee8c53fe",
+  "name" : "get center by id",
+  "time" : {
+    "start" : 1644246704606,
+    "stop" : 1644246704606,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "149b034d15dc1262",
+  "name" : "Create, change and delete contact by ID",
+  "time" : {
+    "start" : 1644246691242,
+    "stop" : 1644246691242,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "b598f66fe6fc3125",
+  "name" : "[API banner] Get banner by ID",
+  "time" : {
+    "start" : 1644246733242,
+    "stop" : 1644246733242,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "a910df382860b8e8",
+  "name" : "resetPasswordTest",
+  "time" : {
+    "start" : 1644246735201,
+    "stop" : 1644246736780,
+    "duration" : 1579
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "55ed9a257dfe9c21",
+  "name" : "get list of center",
+  "time" : {
+    "start" : 1644246704608,
+    "stop" : 1644246704608,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "8756571d2cd98dde",
+  "name" : "beforeClass",
+  "time" : {
+    "start" : 1644246735193,
+    "stop" : 1644246735193,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b2c21ed5c617759e",
+  "name" : "beforeMethod",
+  "time" : {
+    "start" : 1644246705487,
+    "stop" : 1644246705487,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "65dde68bca63d506",
+  "name" : "[API category] Change category by ID",
+  "time" : {
+    "start" : 1644246735194,
+    "stop" : 1644246735194,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "de1d76c73b0c21b4",
+  "name" : "TUA-214",
+  "time" : {
+    "start" : 1644246704655,
+    "stop" : 1644246704657,
+    "duration" : 2
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "e4d0f4219e4b3a37",
+  "name" : "TUA-159",
+  "time" : {
+    "start" : 1644246693885,
+    "stop" : 1644246693892,
+    "duration" : 7
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "784706d61f3ab2d9",
+  "name" : "TUA-419",
+  "time" : {
+    "start" : 1644246720346,
+    "stop" : 1644246721317,
+    "duration" : 971
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "7d5e6b4c8bff7114",
+  "name" : "[API admin role] Get list of all roles",
+  "time" : {
+    "start" : 1644246703593,
+    "stop" : 1644246703594,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "48bf8c065640d0ec",
+  "name" : "TUA-237",
+  "time" : {
+    "start" : 1644246691630,
+    "stop" : 1644246691630,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "8850fae86f0931e2",
+  "name" : "TUA-160",
+  "time" : {
+    "start" : 1644246692792,
+    "stop" : 1644246692792,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "f63184fa61695613",
+  "name" : "TUA-406",
+  "time" : {
+    "start" : 1644246688140,
+    "stop" : 1644246690212,
+    "duration" : 2072
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
