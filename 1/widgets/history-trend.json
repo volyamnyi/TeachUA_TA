@@ -1,13 +1,1 @@
-[ {
-  "buildOrder" : 1,
-  "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "failed" : 1,
-    "broken" : 29,
-    "skipped" : 80,
-    "passed" : 7,
-    "unknown" : 4,
-    "total" : 121
-  }
-} ]
+[{"buildOrder":1,"reportUrl":"https://vy1989.github.io/TeachUA_TA/1/","reportName":"Allure Report with history","data":{"failed":1,"broken":29,"skipped":80,"passed":7,"unknown":4,"total":121}},{"data":{"failed":0,"broken":0,"skipped":0,"passed":0,"unknown":0,"total":0}}]

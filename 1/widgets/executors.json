@@ -1,10 +1,1 @@
-[ {
-  "name" : "GitHub Actions",
-  "type" : "github",
-  "url" : "https://vy1989.github.io/TeachUA_TA",
-  "buildOrder" : 1,
-  "buildName" : "GitHub Actions Run #1807175942",
-  "buildUrl" : "https://github.com/vy1989/TeachUA_TA/actions/runs/1807175942",
-  "reportName" : "Allure Report with history",
-  "reportUrl" : "https://vy1989.github.io/TeachUA_TA/1/"
-} ]
+[{"name":"GitHub Actions","type":"github","url":"https://vy1989.github.io/TeachUA_TA","buildOrder":1,"buildName":"GitHub Actions Run #2555526047","buildUrl":"https://github.com/vy1989/TeachUA_TA/actions/runs/2555526047","reportName":"Allure Report with history","reportUrl":"https://vy1989.github.io/TeachUA_TA/1/"}]
